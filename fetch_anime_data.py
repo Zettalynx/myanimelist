@@ -15,23 +15,36 @@ else:
 anime_list = data.get("data", [])
 
 # Format string untuk README.md
-readme_content = "# Current Anime Season Data\n\n"
-readme_content += "<style>\n.card {\n  display: inline-block;\n  width: 45%;\n  margin: 1%;\n  padding: 10px;\n  border: 1px solid #ddd;\n  border-radius: 8px;\n}\n.card img {\n  width: 100%;\n  border-radius: 8px;\n}\n.card-title {\n  text-align: center;\n  font-size: 1.2em;\n  margin-top: 10px;\n}\n</style>\n\n"
-readme_content += "<div style='display: flex; flex-wrap: wrap;'>\n"
+readme_content = "# Current Anime Season\n\n"
+readme_content += "Berikut ini adalah daftar anime yang sedang tayang pada musim ini.\n\n"
 
-for anime in anime_list:
-    # Ambil gambar dan judul anime
-    image_url = anime.get("images", {}).get("webp", {}).get("large_image_url", "")
-    title = anime.get("title", "N/A")
+# Header tabel dengan dua kolom
+readme_content += "| Anime | Anime |\n"
+readme_content += "|-------|-------|\n"
 
-    # Tambahkan kartu untuk setiap anime
-    if image_url:
-        readme_content += f"<div class='card'>\n"
-        readme_content += f"<img src='{image_url}' alt='{title}'>\n"
-        readme_content += f"<div class='card-title'>{title}</div>\n"
-        readme_content += "</div>\n"
+# Buat daftar dalam format dua kolom
+for i in range(0, len(anime_list), 2):
+    # Ambil dua item anime per baris
+    anime1 = anime_list[i]
+    anime2 = anime_list[i + 1] if i + 1 < len(anime_list) else None
 
-readme_content += "</div>"
+    # Ambil detail anime 1
+    title1 = anime1.get("title", "N/A")
+    image_url1 = anime1.get("images", {}).get("webp", {}).get("image_url", "")
+
+    # Format kolom untuk anime 1
+    col1 = f"![{title1}]({image_url1})<br>{title1}" if image_url1 else title1
+
+    # Ambil detail anime 2 jika ada
+    if anime2:
+        title2 = anime2.get("title", "N/A")
+        image_url2 = anime2.get("images", {}).get("webp", {}).get("image_url", "")
+        col2 = f"![{title2}]({image_url2})<br>{title2}" if image_url2 else title2
+    else:
+        col2 = ""  # Jika tidak ada anime kedua, biarkan kolom kosong
+
+    # Tambahkan baris dengan dua kolom
+    readme_content += f"| {col1} | {col2} |\n"
 
 # Tulis ke README.md
 with open("README.md", "w", encoding='utf-8') as file:
