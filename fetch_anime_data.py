@@ -1,7 +1,22 @@
 import requests
+import datetime
 
-# Endpoint API
-api_url = "https://api.jikan.moe/v4/seasons/now"
+# Mapping hari dalam bahasa Inggris
+days_map = {
+    0: "monday",
+    1: "tuesday",
+    2: "wednesday",
+    3: "thursday",
+    4: "friday",
+    5: "saturday",
+    6: "sunday"
+}
+
+# Ambil hari ini dalam bahasa Inggris
+current_day = days_map[datetime.datetime.now().weekday()]
+
+# Endpoint API dengan filter sesuai hari ini
+api_url = f"https://api.jikan.moe/v4/schedules?filter={current_day}"
 
 # Fetch data dari API
 response = requests.get(api_url)
@@ -15,8 +30,8 @@ else:
 anime_list = data.get("data", [])
 
 # Format string untuk README.md
-readme_content = "# Current Anime Season\n\n"
-readme_content += "Berikut ini adalah daftar anime yang sedang tayang pada musim ini.\n\n"
+readme_content = f"# Anime Schedule for {current_day.capitalize()}\n\n"
+readme_content += f"Berikut ini adalah daftar anime yang tayang pada hari **{current_day.capitalize()}**.\n\n"
 
 # Header tabel dengan dua kolom
 readme_content += "| Anime | Anime |\n"
