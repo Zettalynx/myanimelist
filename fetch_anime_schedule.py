@@ -1,5 +1,12 @@
 import requests
-import datetime
+from datetime import datetime
+from pytz import timezone
+
+# Tentukan zona waktu untuk WIB (Waktu Indonesia Barat)
+wib = timezone('Asia/Jakarta')
+
+# Ambil waktu sekarang dalam zona waktu WIB
+current_time_wib = datetime.now(wib)
 
 # Mapping hari dalam bahasa Inggris
 days_map = {
@@ -12,8 +19,8 @@ days_map = {
     6: "sunday"
 }
 
-# Ambil hari ini dalam bahasa Inggris
-current_day = days_map[datetime.datetime.now().weekday()]
+# Ambil hari ini dalam bahasa Inggris (mengikuti waktu WIB)
+current_day = days_map[current_time_wib.weekday()]
 
 # Endpoint API dengan filter sesuai hari ini
 api_url = f"https://api.jikan.moe/v4/schedules?filter={current_day}"
@@ -30,8 +37,8 @@ else:
 anime_list = data.get("data", [])
 
 # Format string untuk README.md
-readme_content = f"# Anime Schedule for {current_day.capitalize()}\n\n"
-readme_content += f"The following is a list of anime that aired on **{current_day.capitalize()}**.\n\n"
+readme_content = f"# Anime Schedule for {current_day.capitalize()}\n"
+readme_content += f"Here is a list of anime that aired on **{current_day.capitalize()}** \n"
 
 # Header tabel dengan dua kolom
 readme_content += "| Anime | Anime |\n"
