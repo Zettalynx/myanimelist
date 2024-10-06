@@ -31,7 +31,7 @@ anime_list = data.get("data", [])
 
 # Format string untuk README.md
 readme_content = f"# Anime Schedule for {current_day.capitalize()}\n\n"
-readme_content += f"Berikut ini adalah daftar anime yang tayang pada hari **{current_day.capitalize()}**.\n\n"
+readme_content += f"The following is a list of anime that aired on **{current_day.capitalize()}**.\n\n"
 
 # Header tabel dengan dua kolom
 readme_content += "| Anime | Anime |\n"
