@@ -1,6 +1,6 @@
-# Anime Schedule for Monday
-Here is a list of anime that aired on **Monday** 
+# Anime Schedule for Tuesday
+Here is a list of anime that aired on **Tuesday** 
 | Anime | Anime |
 |-------|-------|
-| ![Shin Nippon History](https://cdn.myanimelist.net/images/anime/1433/134811.webp)<br>Shin Nippon History | ![Shimajirou no Wow!](https://cdn.myanimelist.net/images/anime/9/50737.webp)<br>Shimajirou no Wow! |
-| ![Puzzle & Dragon](https://cdn.myanimelist.net/images/anime/1535/95070.webp)<br>Puzzle & Dragon | ![Yami Shibai 13](https://cdn.myanimelist.net/images/anime/1688/143456.webp)<br>Yami Shibai 13 |
+| ![Origami Ninja Koyankinte](https://cdn.myanimelist.net/images/anime/1860/106477.webp)<br>Origami Ninja Koyankinte | ![Fushigi Dagashiya: Zenitendou](https://cdn.myanimelist.net/images/anime/1544/141797.webp)<br>Fushigi Dagashiya: Zenitendou |
+| ![Nageki no Bourei wa Intai shitai](https://cdn.myanimelist.net/images/anime/1679/145660.webp)<br>Nageki no Bourei wa Intai shitai |  |
