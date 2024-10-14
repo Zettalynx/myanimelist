@@ -1,9 +1,8 @@
-# Anime Schedule for Monday
-Here is a list of anime that aired on **Monday** 
+# Anime Schedule for Tuesday
+Here is a list of anime that aired on **Tuesday** 
 | Anime | Anime |
 |-------|-------|
-| ![Shin Nippon History](https://cdn.myanimelist.net/images/anime/1433/134811.webp)<br>Shin Nippon History | ![Shimajirou no Wow!](https://cdn.myanimelist.net/images/anime/9/50737.webp)<br>Shimajirou no Wow! |
-| ![Neko ni Tensei shita Ojisan](https://cdn.myanimelist.net/images/anime/1659/144170.webp)<br>Neko ni Tensei shita Ojisan | ![Puzzle & Dragon](https://cdn.myanimelist.net/images/anime/1535/95070.webp)<br>Puzzle & Dragon |
-| ![Haigakura](https://cdn.myanimelist.net/images/anime/1214/142185.webp)<br>Haigakura | ![MF Ghost 2nd Season](https://cdn.myanimelist.net/images/anime/1037/145338.webp)<br>MF Ghost 2nd Season |
-| ![Kamonohashi Ron no Kindan Suiri 2nd Season](https://cdn.myanimelist.net/images/anime/1917/144334.webp)<br>Kamonohashi Ron no Kindan Suiri 2nd Season | ![Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru](https://cdn.myanimelist.net/images/anime/1683/145446.webp)<br>Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru |
-| ![Raise wa Tanin ga Ii](https://cdn.myanimelist.net/images/anime/1428/143773.webp)<br>Raise wa Tanin ga Ii |  |
+| ![Origami Ninja Koyankinte](https://cdn.myanimelist.net/images/anime/1860/106477.webp)<br>Origami Ninja Koyankinte | ![Fushigi Dagashiya: Zenitendou](https://cdn.myanimelist.net/images/anime/1544/141797.webp)<br>Fushigi Dagashiya: Zenitendou |
+| ![Youkai Gakkou no Sensei Hajimemashita!](https://cdn.myanimelist.net/images/anime/1800/145662.webp)<br>Youkai Gakkou no Sensei Hajimemashita! | ![Houkago Shounen Hanako-kun Part 2](https://cdn.myanimelist.net/images/anime/1910/144517.webp)<br>Houkago Shounen Hanako-kun Part 2 |
+| ![Natsume Yuujinchou Shichi](https://cdn.myanimelist.net/images/anime/1270/145168.webp)<br>Natsume Yuujinchou Shichi | ![Nageki no Bourei wa Intai shitai](https://cdn.myanimelist.net/images/anime/1679/145660.webp)<br>Nageki no Bourei wa Intai shitai |
+| ![Seirei Gensouki 2](https://cdn.myanimelist.net/images/anime/1087/144583.webp)<br>Seirei Gensouki 2 |  |
