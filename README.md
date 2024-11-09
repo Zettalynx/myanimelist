@@ -1,16 +1,17 @@
-# Anime Schedule for Saturday
-Here is a list of anime that aired on **Saturday** 
+# Anime Schedule for Sunday
+Here is a list of anime that aired on **Sunday** 
 | Anime | Anime |
 |-------|-------|
-| ![Pinkfong-gwa Hogi: Sae Chingu Ninimo](https://cdn.myanimelist.net/images/anime/1552/145268.webp)<br>Pinkfong-gwa Hogi: Sae Chingu Ninimo | ![Kumarba Season 2](https://cdn.myanimelist.net/images/anime/1897/144484.webp)<br>Kumarba Season 2 |
-| ![Oshiri Tantei 9th Season](https://cdn.myanimelist.net/images/anime/1934/142516.webp)<br>Oshiri Tantei 9th Season | ![Cabeon](https://cdn.myanimelist.net/images/anime/1340/138135.webp)<br>Cabeon |
-| ![Shibuya♡Hachi Part 2](https://cdn.myanimelist.net/images/anime/1515/144659.webp)<br>Shibuya♡Hachi Part 2 | ![Sai-Kyo-Oh! Zukan: The Ultimate Battles](https://cdn.myanimelist.net/images/anime/1229/140383.webp)<br>Sai-Kyo-Oh! Zukan: The Ultimate Battles |
-| ![Jochum](https://cdn.myanimelist.net/images/anime/1827/143336.webp)<br>Jochum | ![Kagaku x Bouken Survival!](https://cdn.myanimelist.net/images/anime/1836/145604.webp)<br>Kagaku x Bouken Survival! |
-| ![Ninjala (TV)](https://cdn.myanimelist.net/images/anime/1552/119871.webp)<br>Ninjala (TV) | ![Bonobono (TV 2016)](https://cdn.myanimelist.net/images/anime/13/77617.webp)<br>Bonobono (TV 2016) |
-| ![Ooi! Tonbo 2nd Season](https://cdn.myanimelist.net/images/anime/1115/145549.webp)<br>Ooi! Tonbo 2nd Season | ![The iDOLM@STER Shiny Colors 2nd Season](https://cdn.myanimelist.net/images/anime/1978/145055.webp)<br>The iDOLM@STER Shiny Colors 2nd Season |
-| ![Mahoutsukai ni Narenakatta Onnanoko no Hanashi](https://cdn.myanimelist.net/images/anime/1535/145026.webp)<br>Mahoutsukai ni Narenakatta Onnanoko no Hanashi | ![Touhai: Ura Rate Mahjong Touhai Roku](https://cdn.myanimelist.net/images/anime/1306/145571.webp)<br>Touhai: Ura Rate Mahjong Touhai Roku |
-| ![Ao no Miburo](https://cdn.myanimelist.net/images/anime/1659/143938.webp)<br>Ao no Miburo | ![Maou-sama, Retry! R](https://cdn.myanimelist.net/images/anime/1667/145393.webp)<br>Maou-sama, Retry! R |
-| ![Goukon ni Ittara Onna ga Inakatta Hanashi](https://cdn.myanimelist.net/images/anime/1198/145156.webp)<br>Goukon ni Ittara Onna ga Inakatta Hanashi | ![Chi. Chikyuu no Undou ni Tsuite](https://cdn.myanimelist.net/images/anime/1749/145922.webp)<br>Chi. Chikyuu no Undou ni Tsuite |
-| ![Sword Art Online Alternative: Gun Gale Online II](https://cdn.myanimelist.net/images/anime/1335/145505.webp)<br>Sword Art Online Alternative: Gun Gale Online II | ![Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen](https://cdn.myanimelist.net/images/anime/1299/144738.webp)<br>Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen |
-| ![Bleach: Sennen Kessen-hen - Soukoku-tan](https://cdn.myanimelist.net/images/anime/1595/144074.webp)<br>Bleach: Sennen Kessen-hen - Soukoku-tan | ![Blue Lock vs. U-20 Japan](https://cdn.myanimelist.net/images/anime/1584/144860.webp)<br>Blue Lock vs. U-20 Japan |
-| ![Meitantei Conan](https://cdn.myanimelist.net/images/anime/7/75199.webp)<br>Meitantei Conan |  |
+| ![Punirunes: Puni 2](https://cdn.myanimelist.net/images/anime/1387/144697.webp)<br>Punirunes: Puni 2 | ![Asatir 2: Mirai no Mukashi Banashi](https://cdn.myanimelist.net/images/anime/1717/144671.webp)<br>Asatir 2: Mirai no Mukashi Banashi |
+| ![Manul no Yuube](https://cdn.myanimelist.net/images/anime/1980/96936.webp)<br>Manul no Yuube | ![Himitsu no AiPri](https://cdn.myanimelist.net/images/anime/1816/141521.webp)<br>Himitsu no AiPri |
+| ![Tousouchuu: Great Mission](https://cdn.myanimelist.net/images/anime/1482/141904.webp)<br>Tousouchuu: Great Mission | ![Yu☆Gi☆Oh! Go Rush!!](https://cdn.myanimelist.net/images/anime/1690/140394.webp)<br>Yu☆Gi☆Oh! Go Rush!! |
+| ![Puniru wa Kawaii Slime](https://cdn.myanimelist.net/images/anime/1681/145175.webp)<br>Puniru wa Kawaii Slime | ![Chibi Maruko-chan (1995)](https://cdn.myanimelist.net/images/anime/1108/100604.webp)<br>Chibi Maruko-chan (1995) |
+| ![Shinkalion: Change the World](https://cdn.myanimelist.net/images/anime/1133/141311.webp)<br>Shinkalion: Change the World | ![Wonderful Precure!](https://cdn.myanimelist.net/images/anime/1852/140786.webp)<br>Wonderful Precure! |
+| ![Sazae-san](https://cdn.myanimelist.net/images/anime/1008/98996.webp)<br>Sazae-san | ![Love Live! Superstar!! 3rd Season](https://cdn.myanimelist.net/images/anime/1489/144640.webp)<br>Love Live! Superstar!! 3rd Season |
+| ![One Piece: Gyojin Tou-hen](https://cdn.myanimelist.net/images/anime/1928/146063.webp)<br>One Piece: Gyojin Tou-hen | ![One Piece: Gyojin Tou-hen](https://cdn.myanimelist.net/images/anime/1928/146063.webp)<br>One Piece: Gyojin Tou-hen |
+| ![Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season](https://cdn.myanimelist.net/images/anime/1109/145389.webp)<br>Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season | ![Tsuma, Shougakusei ni Naru.](https://cdn.myanimelist.net/images/anime/1752/145548.webp)<br>Tsuma, Shougakusei ni Naru. |
+| ![Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki](https://cdn.myanimelist.net/images/anime/1721/145335.webp)<br>Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | ![Maou 2099](https://cdn.myanimelist.net/images/anime/1675/144605.webp)<br>Maou 2099 |
+| ![Ao no Exorcist: Yuki no Hate-hen](https://cdn.myanimelist.net/images/anime/1617/144043.webp)<br>Ao no Exorcist: Yuki no Hate-hen | ![Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season](https://cdn.myanimelist.net/images/anime/1280/143705.webp)<br>Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season |
+| ![Kami no Tou: Koubou-sen](https://cdn.myanimelist.net/images/anime/1877/145819.webp)<br>Kami no Tou: Koubou-sen | ![Ranma ½ (2024)](https://cdn.myanimelist.net/images/anime/1155/144299.webp)<br>Ranma ½ (2024) |
+| ![Kimi wa Meido-sama.](https://cdn.myanimelist.net/images/anime/1909/144684.webp)<br>Kimi wa Meido-sama. | ![Sasayaku You ni Koi wo Utau](https://cdn.myanimelist.net/images/anime/1455/141858.webp)<br>Sasayaku You ni Koi wo Utau |
+| ![Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season](https://cdn.myanimelist.net/images/anime/1978/144794.webp)<br>Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season |  |
