@@ -1,7 +1,9 @@
-# Anime Schedule for Tuesday
-Here is a list of anime that aired on **Tuesday** 
+# Anime Schedule for Wednesday
+Here is a list of anime that aired on **Wednesday** 
 | Anime | Anime |
 |-------|-------|
-| ![Origami Ninja Koyankinte](https://cdn.myanimelist.net/images/anime/1860/106477.webp)<br>Origami Ninja Koyankinte | ![Fushigi Dagashiya: Zenitendou](https://cdn.myanimelist.net/images/anime/1544/141797.webp)<br>Fushigi Dagashiya: Zenitendou |
-| ![Youkai Gakkou no Sensei Hajimemashita!](https://cdn.myanimelist.net/images/anime/1800/145662.webp)<br>Youkai Gakkou no Sensei Hajimemashita! | ![Natsume Yuujinchou Shichi](https://cdn.myanimelist.net/images/anime/1270/145168.webp)<br>Natsume Yuujinchou Shichi |
-| ![Seirei Gensouki 2](https://cdn.myanimelist.net/images/anime/1087/144583.webp)<br>Seirei Gensouki 2 |  |
+| ![Pochars](https://cdn.myanimelist.net/images/anime/1155/145243.webp)<br>Pochars | ![Okaimono Panda!](https://cdn.myanimelist.net/images/anime/1171/145891.webp)<br>Okaimono Panda! |
+| ![Chibi Godzilla no Gyakushuu 2nd Season](https://cdn.myanimelist.net/images/anime/1102/142428.webp)<br>Chibi Godzilla no Gyakushuu 2nd Season | ![Tasuuketsu](https://cdn.myanimelist.net/images/anime/1482/143629.webp)<br>Tasuuketsu |
+| ![Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu](https://cdn.myanimelist.net/images/anime/1878/145376.webp)<br>Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu | ![Amagami-san Chi no Enmusubi](https://cdn.myanimelist.net/images/anime/1410/143586.webp)<br>Amagami-san Chi no Enmusubi |
+| ![Rekishi ni Nokoru Akujo ni Naru zo](https://cdn.myanimelist.net/images/anime/1005/145339.webp)<br>Rekishi ni Nokoru Akujo ni Naru zo | ![Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II](https://cdn.myanimelist.net/images/anime/1660/143460.webp)<br>Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II |
+| ![Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season](https://cdn.myanimelist.net/images/anime/1706/144725.webp)<br>Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season |  |
