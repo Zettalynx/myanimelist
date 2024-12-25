@@ -1,9 +1,8 @@
-# Anime Schedule for Wednesday
-Here is a list of anime that aired on **Wednesday** 
+# Anime Schedule for Thursday
+Here is a list of anime that aired on **Thursday** 
 | Anime | Anime |
 |-------|-------|
-| ![Pochars](https://cdn.myanimelist.net/images/anime/1155/145243.webp)<br>Pochars | ![Okaimono Panda!](https://cdn.myanimelist.net/images/anime/1171/145891.webp)<br>Okaimono Panda! |
-| ![Chibi Godzilla no Gyakushuu 2nd Season](https://cdn.myanimelist.net/images/anime/1102/142428.webp)<br>Chibi Godzilla no Gyakushuu 2nd Season | ![Tasuuketsu](https://cdn.myanimelist.net/images/anime/1482/143629.webp)<br>Tasuuketsu |
-| ![Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu](https://cdn.myanimelist.net/images/anime/1878/145376.webp)<br>Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu | ![Amagami-san Chi no Enmusubi](https://cdn.myanimelist.net/images/anime/1410/143586.webp)<br>Amagami-san Chi no Enmusubi |
-| ![Rekishi ni Nokoru Akujo ni Naru zo](https://cdn.myanimelist.net/images/anime/1005/145339.webp)<br>Rekishi ni Nokoru Akujo ni Naru zo | ![Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II](https://cdn.myanimelist.net/images/anime/1660/143460.webp)<br>Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II |
-| ![Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season](https://cdn.myanimelist.net/images/anime/1706/144725.webp)<br>Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season |  |
+| ![Sylvanian Families: Freya no Piece of Secret](https://cdn.myanimelist.net/images/anime/1856/145941.webp)<br>Sylvanian Families: Freya no Piece of Secret | ![Wish Cat](https://cdn.myanimelist.net/images/anime/1850/145583.webp)<br>Wish Cat |
+| ![Shooting Star Catch! Tiniping](https://cdn.myanimelist.net/images/anime/1583/145688.webp)<br>Shooting Star Catch! Tiniping | ![Tono to Inu](https://cdn.myanimelist.net/images/anime/1845/144716.webp)<br>Tono to Inu |
+| ![Murder Mystery of the Dead](https://cdn.myanimelist.net/images/anime/1582/145611.webp)<br>Murder Mystery of the Dead | ![Shin Tennis no Oujisama: U-17 World Cup Semifinal](https://cdn.myanimelist.net/images/anime/1507/145670.webp)<br>Shin Tennis no Oujisama: U-17 World Cup Semifinal |
+| ![Sengoku Youko: Senma Konton-hen](https://cdn.myanimelist.net/images/anime/1948/143550.webp)<br>Sengoku Youko: Senma Konton-hen | ![Ao no Hako](https://cdn.myanimelist.net/images/anime/1496/147108.webp)<br>Ao no Hako |
