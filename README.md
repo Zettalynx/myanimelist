@@ -1,14 +1,13 @@
-# Anime Schedule for Friday
-Here is a list of anime that aired on **Friday** 
+# Anime Schedule for Saturday
+Here is a list of anime that aired on **Saturday** 
 | Anime | Anime |
 |-------|-------|
-| ![Minimini Minini](https://cdn.myanimelist.net/images/anime/1295/147299.webp)<br>Minimini Minini | ![Ohayou! Unko-sensei](https://cdn.myanimelist.net/images/anime/1244/144510.webp)<br>Ohayou! Unko-sensei |
-| ![Sousei no Aquarion: Myth of Emotions](https://cdn.myanimelist.net/images/anime/1665/146999.webp)<br>Sousei no Aquarion: Myth of Emotions | ![Sore Ike! Anpanman](https://cdn.myanimelist.net/images/anime/1902/111797.webp)<br>Sore Ike! Anpanman |
-| ![Beyblade X](https://cdn.myanimelist.net/images/anime/1394/145458.webp)<br>Beyblade X | ![Chiikawa](https://cdn.myanimelist.net/images/anime/1783/121944.webp)<br>Chiikawa |
-| ![Farmagia](https://cdn.myanimelist.net/images/anime/1406/146839.webp)<br>Farmagia | ![Momentary Lily](https://cdn.myanimelist.net/images/anime/1107/143656.webp)<br>Momentary Lily |
-| ![Doraemon (2005)](https://cdn.myanimelist.net/images/anime/6/23935.webp)<br>Doraemon (2005) | ![Trillion Game](https://cdn.myanimelist.net/images/anime/1081/147379.webp)<br>Trillion Game |
-| ![Douse, Koishite Shimaunda.](https://cdn.myanimelist.net/images/anime/1021/146952.webp)<br>Douse, Koishite Shimaunda. | ![Pokemon (2023)](https://cdn.myanimelist.net/images/anime/1703/137216.webp)<br>Pokemon (2023) |
-| ![Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran](https://cdn.myanimelist.net/images/anime/1314/145530.webp)<br>Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | ![Nihon e Youkoso Elf-san.](https://cdn.myanimelist.net/images/anime/1650/146113.webp)<br>Nihon e Youkoso Elf-san. |
-| ![Akuyaku Reijou Tensei Ojisan](https://cdn.myanimelist.net/images/anime/1255/146484.webp)<br>Akuyaku Reijou Tensei Ojisan | ![Crayon Shin-chan](https://cdn.myanimelist.net/images/anime/10/59897.webp)<br>Crayon Shin-chan |
-| ![Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.](https://cdn.myanimelist.net/images/anime/1775/147330.webp)<br>Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. | ![Dragon Ball Daima](https://cdn.myanimelist.net/images/anime/1723/145231.webp)<br>Dragon Ball Daima |
-| ![Kusuriya no Hitorigoto 2nd Season](https://cdn.myanimelist.net/images/anime/1025/147458.webp)<br>Kusuriya no Hitorigoto 2nd Season |  |
+| ![Pinkfong-gwa Hogi: Sae Chingu Ninimo](https://cdn.myanimelist.net/images/anime/1552/145268.webp)<br>Pinkfong-gwa Hogi: Sae Chingu Ninimo | ![Kagaku x Bouken Survival!](https://cdn.myanimelist.net/images/anime/1836/145604.webp)<br>Kagaku x Bouken Survival! |
+| ![Cardfight!! Vanguard: Divinez Deluxe-hen](https://cdn.myanimelist.net/images/anime/1022/146945.webp)<br>Cardfight!! Vanguard: Divinez Deluxe-hen | ![Ninjala (TV)](https://cdn.myanimelist.net/images/anime/1552/119871.webp)<br>Ninjala (TV) |
+| ![Bonobono (TV 2016)](https://cdn.myanimelist.net/images/anime/13/77617.webp)<br>Bonobono (TV 2016) | ![UniteUp! Uni:Birth](https://cdn.myanimelist.net/images/anime/1561/145507.webp)<br>UniteUp! Uni:Birth |
+| ![Babanbabanban Vampire](https://cdn.myanimelist.net/images/anime/1221/146649.webp)<br>Babanbabanban Vampire | ![Sorairo Utility (TV)](https://cdn.myanimelist.net/images/anime/1909/146787.webp)<br>Sorairo Utility (TV) |
+| ![Touhai: Ura Rate Mahjong Touhairoku](https://cdn.myanimelist.net/images/anime/1306/145571.webp)<br>Touhai: Ura Rate Mahjong Touhairoku | ![Ao no Miburo](https://cdn.myanimelist.net/images/anime/1079/147334.webp)<br>Ao no Miburo |
+| ![Übel Blatt](https://cdn.myanimelist.net/images/anime/1647/146961.webp)<br>Übel Blatt | ![S-Rank Monster no "Behemoth" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu](https://cdn.myanimelist.net/images/anime/1656/146916.webp)<br>S-Rank Monster no "Behemoth" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu |
+| ![Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu](https://cdn.myanimelist.net/images/anime/1904/144608.webp)<br>Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu | ![Chi. Chikyuu no Undou ni Tsuite](https://cdn.myanimelist.net/images/anime/1749/145922.webp)<br>Chi. Chikyuu no Undou ni Tsuite |
+| ![Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen](https://cdn.myanimelist.net/images/anime/1299/144738.webp)<br>Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | ![Sakamoto Days](https://cdn.myanimelist.net/images/anime/1026/146459.webp)<br>Sakamoto Days |
+| ![Meitantei Conan](https://cdn.myanimelist.net/images/anime/7/75199.webp)<br>Meitantei Conan |  |
