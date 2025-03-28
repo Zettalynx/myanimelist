@@ -1,10 +1,10 @@
-# Anime Schedule for Friday
-Here is a list of anime that aired on **Friday** 
+# Anime Schedule for Saturday
+Here is a list of anime that aired on **Saturday** 
 | Anime | Anime |
 |-------|-------|
-| ![Minimini Minini](https://cdn.myanimelist.net/images/anime/1295/147299.webp)<br>Minimini Minini | ![Ohayou! Unko-sensei](https://cdn.myanimelist.net/images/anime/1244/144510.webp)<br>Ohayou! Unko-sensei |
-| ![Sousei no Aquarion: Myth of Emotions](https://cdn.myanimelist.net/images/anime/1665/146999.webp)<br>Sousei no Aquarion: Myth of Emotions | ![Sore Ike! Anpanman](https://cdn.myanimelist.net/images/anime/1902/111797.webp)<br>Sore Ike! Anpanman |
-| ![Beyblade X](https://cdn.myanimelist.net/images/anime/1394/145458.webp)<br>Beyblade X | ![Chiikawa](https://cdn.myanimelist.net/images/anime/1783/121944.webp)<br>Chiikawa |
-| ![Farmagia](https://cdn.myanimelist.net/images/anime/1406/146839.webp)<br>Farmagia | ![Doraemon (2005)](https://cdn.myanimelist.net/images/anime/6/23935.webp)<br>Doraemon (2005) |
-| ![Pokemon (2023)](https://cdn.myanimelist.net/images/anime/1703/137216.webp)<br>Pokemon (2023) | ![Nihon e Youkoso Elf-san.](https://cdn.myanimelist.net/images/anime/1650/146113.webp)<br>Nihon e Youkoso Elf-san. |
-| ![Crayon Shin-chan](https://cdn.myanimelist.net/images/anime/10/59897.webp)<br>Crayon Shin-chan | ![Kusuriya no Hitorigoto 2nd Season](https://cdn.myanimelist.net/images/anime/1025/147458.webp)<br>Kusuriya no Hitorigoto 2nd Season |
+| ![Kankin Kuiki Level X 2nd Season](https://cdn.myanimelist.net/images/anime/1511/146045.webp)<br>Kankin Kuiki Level X 2nd Season | ![Kankin Kuiki Level X 2nd Season](https://cdn.myanimelist.net/images/anime/1511/146045.webp)<br>Kankin Kuiki Level X 2nd Season |
+| ![Cardfight!! Vanguard: Divinez Deluxe-hen](https://cdn.myanimelist.net/images/anime/1022/146945.webp)<br>Cardfight!! Vanguard: Divinez Deluxe-hen | ![Ninjala (TV)](https://cdn.myanimelist.net/images/anime/1552/119871.webp)<br>Ninjala (TV) |
+| ![Bonobono (TV 2016)](https://cdn.myanimelist.net/images/anime/13/77617.webp)<br>Bonobono (TV 2016) | ![UniteUp! Uni:Birth](https://cdn.myanimelist.net/images/anime/1561/145507.webp)<br>UniteUp! Uni:Birth |
+| ![Babanbabanban Vampire](https://cdn.myanimelist.net/images/anime/1221/146649.webp)<br>Babanbabanban Vampire | ![Touhai: Ura Rate Mahjong Touhairoku](https://cdn.myanimelist.net/images/anime/1306/145571.webp)<br>Touhai: Ura Rate Mahjong Touhairoku |
+| ![Ao no Miburo](https://cdn.myanimelist.net/images/anime/1079/147334.webp)<br>Ao no Miburo | ![Übel Blatt](https://cdn.myanimelist.net/images/anime/1647/146961.webp)<br>Übel Blatt |
+| ![Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu](https://cdn.myanimelist.net/images/anime/1904/144608.webp)<br>Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu | ![Meitantei Conan](https://cdn.myanimelist.net/images/anime/7/75199.webp)<br>Meitantei Conan |
