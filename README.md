@@ -1,6 +1,5 @@
-# Anime Schedule for Tuesday
-Here is a list of anime that aired on **Tuesday** 
+# Anime Schedule for Wednesday
+Here is a list of anime that aired on **Wednesday** 
 | Anime | Anime |
 |-------|-------|
-| ![Origami Ninja Koyankinte](https://cdn.myanimelist.net/images/anime/1860/106477.webp)<br>Origami Ninja Koyankinte | ![Fushigi Dagashiya: Zenitendou](https://cdn.myanimelist.net/images/anime/1544/141797.webp)<br>Fushigi Dagashiya: Zenitendou |
-| ![Kijin Gentoushou](https://cdn.myanimelist.net/images/anime/1722/148906.webp)<br>Kijin Gentoushou |  |
+| ![Pochars](https://cdn.myanimelist.net/images/anime/1155/145243.webp)<br>Pochars | ![Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II](https://cdn.myanimelist.net/images/anime/1660/143460.webp)<br>Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II |
