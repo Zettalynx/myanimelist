@@ -1,5 +1,6 @@
-# Anime Schedule for Wednesday
-Here is a list of anime that aired on **Wednesday** 
+# Anime Schedule for Thursday
+Here is a list of anime that aired on **Thursday** 
 | Anime | Anime |
 |-------|-------|
-| ![Pochars](https://cdn.myanimelist.net/images/anime/1155/145243.webp)<br>Pochars | ![Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II](https://cdn.myanimelist.net/images/anime/1660/143460.webp)<br>Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II |
+| ![Shooting Star Catch! Tiniping](https://cdn.myanimelist.net/images/anime/1583/145688.webp)<br>Shooting Star Catch! Tiniping | ![Around 40 Otoko no Isekai Tsuuhan](https://cdn.myanimelist.net/images/anime/1887/146512.webp)<br>Around 40 Otoko no Isekai Tsuuhan |
+| ![Ameku Takao no Suiri Karte](https://cdn.myanimelist.net/images/anime/1096/147327.webp)<br>Ameku Takao no Suiri Karte |  |
