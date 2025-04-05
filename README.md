@@ -1,7 +1,9 @@
-# Anime Schedule for Saturday
-Here is a list of anime that aired on **Saturday** 
+# Anime Schedule for Sunday
+Here is a list of anime that aired on **Sunday** 
 | Anime | Anime |
 |-------|-------|
-| ![Cardfight!! Vanguard: Divinez Deluxe-hen](https://cdn.myanimelist.net/images/anime/1022/146945.webp)<br>Cardfight!! Vanguard: Divinez Deluxe-hen | ![Ninjala (TV)](https://cdn.myanimelist.net/images/anime/1552/119871.webp)<br>Ninjala (TV) |
-| ![Bonobono (TV 2016)](https://cdn.myanimelist.net/images/anime/13/77617.webp)<br>Bonobono (TV 2016) | ![UniteUp! Uni:Birth](https://cdn.myanimelist.net/images/anime/1561/145507.webp)<br>UniteUp! Uni:Birth |
-| ![Touhai: Ura Rate Mahjong Touhairoku](https://cdn.myanimelist.net/images/anime/1306/145571.webp)<br>Touhai: Ura Rate Mahjong Touhairoku | ![Meitantei Conan](https://cdn.myanimelist.net/images/anime/7/75199.webp)<br>Meitantei Conan |
+| ![Manul no Yuube](https://cdn.myanimelist.net/images/anime/1980/96936.webp)<br>Manul no Yuube | ![Mashin Souzouden Wataru](https://cdn.myanimelist.net/images/anime/1550/145123.webp)<br>Mashin Souzouden Wataru |
+| ![Kimi to Idol Precure♪](https://cdn.myanimelist.net/images/anime/1277/147358.webp)<br>Kimi to Idol Precure♪ | ![Kimi to Idol Precure♪](https://cdn.myanimelist.net/images/anime/1277/147358.webp)<br>Kimi to Idol Precure♪ |
+| ![Chibi Maruko-chan (1995)](https://cdn.myanimelist.net/images/anime/1108/100604.webp)<br>Chibi Maruko-chan (1995) | ![Sazae-san](https://cdn.myanimelist.net/images/anime/1008/98996.webp)<br>Sazae-san |
+| ![A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.](https://cdn.myanimelist.net/images/anime/1378/148615.webp)<br>A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. | ![A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.](https://cdn.myanimelist.net/images/anime/1378/148615.webp)<br>A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. |
+| ![One Piece](https://cdn.myanimelist.net/images/anime/1244/138851.webp)<br>One Piece |  |
