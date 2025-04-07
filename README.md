@@ -1,8 +1,7 @@
-# Anime Schedule for Monday
-Here is a list of anime that aired on **Monday** 
+# Anime Schedule for Tuesday
+Here is a list of anime that aired on **Tuesday** 
 | Anime | Anime |
 |-------|-------|
-| ![Shin Nippon History](https://cdn.myanimelist.net/images/anime/1433/134811.webp)<br>Shin Nippon History | ![Shimajirou no Wow!](https://cdn.myanimelist.net/images/anime/9/50737.webp)<br>Shimajirou no Wow! |
-| ![Puzzle & Dragon](https://cdn.myanimelist.net/images/anime/1535/95070.webp)<br>Puzzle & Dragon | ![Neko ni Tensei shita Ojisan](https://cdn.myanimelist.net/images/anime/1659/144170.webp)<br>Neko ni Tensei shita Ojisan |
-| ![Yami Shibai 14](https://cdn.myanimelist.net/images/anime/1811/146726.webp)<br>Yami Shibai 14 | ![Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita](https://cdn.myanimelist.net/images/anime/1192/148314.webp)<br>Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita |
-| ![Haigakura](https://cdn.myanimelist.net/images/anime/1214/142185.webp)<br>Haigakura | ![Watashi no Shiawase na Kekkon 2nd Season](https://cdn.myanimelist.net/images/anime/1946/146770.webp)<br>Watashi no Shiawase na Kekkon 2nd Season |
+| ![Origami Ninja Koyankinte](https://cdn.myanimelist.net/images/anime/1860/106477.webp)<br>Origami Ninja Koyankinte | ![Fushigi Dagashiya: Zenitendou](https://cdn.myanimelist.net/images/anime/1544/141797.webp)<br>Fushigi Dagashiya: Zenitendou |
+| ![#Compass 2.0: Sentou Setsuri Kaiseki System](https://cdn.myanimelist.net/images/anime/1678/148543.webp)<br>#Compass 2.0: Sentou Setsuri Kaiseki System | ![Aru Majo ga Shinu Made](https://cdn.myanimelist.net/images/anime/1620/148221.webp)<br>Aru Majo ga Shinu Made |
+| ![Kijin Gentoushou](https://cdn.myanimelist.net/images/anime/1722/148906.webp)<br>Kijin Gentoushou |  |
