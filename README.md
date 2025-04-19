@@ -1,14 +1,17 @@
-# Anime Schedule for Saturday
-Here is a list of anime that aired on **Saturday** 
+# Anime Schedule for Sunday
+Here is a list of anime that aired on **Sunday** 
 | Anime | Anime |
 |-------|-------|
-| ![Shibuya♡Hachi Part 3](https://cdn.myanimelist.net/images/anime/1804/148377.webp)<br>Shibuya♡Hachi Part 3 | ![Shibuya♡Hachi Part 3](https://cdn.myanimelist.net/images/anime/1804/148377.webp)<br>Shibuya♡Hachi Part 3 |
-| ![Oshiri Tantei 9th Season](https://cdn.myanimelist.net/images/anime/1934/142516.webp)<br>Oshiri Tantei 9th Season | ![Kaijuu Sekai Seifuku (TV)](https://cdn.myanimelist.net/images/anime/1699/148350.webp)<br>Kaijuu Sekai Seifuku (TV) |
-| ![Masuda Kousuke Gekijou: Gag Manga Biyori Go](https://cdn.myanimelist.net/images/anime/1957/146803.webp)<br>Masuda Kousuke Gekijou: Gag Manga Biyori Go | ![Cardfight!! Vanguard: Divinez Deluxe-hen](https://cdn.myanimelist.net/images/anime/1022/146945.webp)<br>Cardfight!! Vanguard: Divinez Deluxe-hen |
-| ![Ninjala (TV)](https://cdn.myanimelist.net/images/anime/1552/119871.webp)<br>Ninjala (TV) | ![Bonobono (TV 2016)](https://cdn.myanimelist.net/images/anime/13/77617.webp)<br>Bonobono (TV 2016) |
-| ![Everyday Host](https://cdn.myanimelist.net/images/anime/1634/146982.webp)<br>Everyday Host | ![Teogonia](https://cdn.myanimelist.net/images/anime/1066/148358.webp)<br>Teogonia |
-| ![Guilty Gear Strive: Dual Rulers](https://cdn.myanimelist.net/images/anime/1199/147623.webp)<br>Guilty Gear Strive: Dual Rulers | ![Shin Samurai-den Yaiba](https://cdn.myanimelist.net/images/anime/1073/149267.webp)<br>Shin Samurai-den Yaiba |
-| ![Anne Shirley](https://cdn.myanimelist.net/images/anime/1674/147871.webp)<br>Anne Shirley | ![Kuroshitsuji: Midori no Majo-hen](https://cdn.myanimelist.net/images/anime/1517/148292.webp)<br>Kuroshitsuji: Midori no Majo-hen |
-| ![Kowloon Generic Romance](https://cdn.myanimelist.net/images/anime/1097/148302.webp)<br>Kowloon Generic Romance | ![Katainaka no Ossan, Kensei ni Naru](https://cdn.myanimelist.net/images/anime/1069/148148.webp)<br>Katainaka no Ossan, Kensei ni Naru |
-| ![Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni](https://cdn.myanimelist.net/images/anime/1074/147339.webp)<br>Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni | ![Enen no Shouboutai: San no Shou](https://cdn.myanimelist.net/images/anime/1527/146836.webp)<br>Enen no Shouboutai: San no Shou |
-| ![Meitantei Conan](https://cdn.myanimelist.net/images/anime/7/75199.webp)<br>Meitantei Conan |  |
+| ![Go! Go! Vehicle Zoo: Vehicle Star-hen](https://cdn.myanimelist.net/images/anime/1889/148647.webp)<br>Go! Go! Vehicle Zoo: Vehicle Star-hen | ![Sai-Kyo-Oh! Zukan: The Ultimate Tournament](https://cdn.myanimelist.net/images/anime/1607/148624.webp)<br>Sai-Kyo-Oh! Zukan: The Ultimate Tournament |
+| ![Manul no Yuube](https://cdn.myanimelist.net/images/anime/1980/96936.webp)<br>Manul no Yuube | ![Himitsu no AiPri: Ring-hen](https://cdn.myanimelist.net/images/anime/1799/148164.webp)<br>Himitsu no AiPri: Ring-hen |
+| ![Mashin Souzouden Wataru](https://cdn.myanimelist.net/images/anime/1550/145123.webp)<br>Mashin Souzouden Wataru | ![Koupen-chan](https://cdn.myanimelist.net/images/anime/1533/146981.webp)<br>Koupen-chan |
+| ![Classic★Stars](https://cdn.myanimelist.net/images/anime/1564/148380.webp)<br>Classic★Stars | ![Princession Orchestra](https://cdn.myanimelist.net/images/anime/1735/146986.webp)<br>Princession Orchestra |
+| ![Kimi to Idol Precure♪](https://cdn.myanimelist.net/images/anime/1277/147358.webp)<br>Kimi to Idol Precure♪ | ![Kimi to Idol Precure♪](https://cdn.myanimelist.net/images/anime/1277/147358.webp)<br>Kimi to Idol Precure♪ |
+| ![Chibi Maruko-chan (1995)](https://cdn.myanimelist.net/images/anime/1108/100604.webp)<br>Chibi Maruko-chan (1995) | ![Maebashi Witches](https://cdn.myanimelist.net/images/anime/1907/148540.webp)<br>Maebashi Witches |
+| ![Maebashi Witches](https://cdn.myanimelist.net/images/anime/1907/148540.webp)<br>Maebashi Witches | ![Sazae-san](https://cdn.myanimelist.net/images/anime/1008/98996.webp)<br>Sazae-san |
+| ![Hibi wa Sugiredo Meshi Umashi](https://cdn.myanimelist.net/images/anime/1221/148863.webp)<br>Hibi wa Sugiredo Meshi Umashi | ![Uma Musume: Cinderella Gray](https://cdn.myanimelist.net/images/anime/1626/148097.webp)<br>Uma Musume: Cinderella Gray |
+| ![Uma Musume: Cinderella Gray](https://cdn.myanimelist.net/images/anime/1626/148097.webp)<br>Uma Musume: Cinderella Gray | ![Mono](https://cdn.myanimelist.net/images/anime/1677/148603.webp)<br>Mono |
+| ![Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru](https://cdn.myanimelist.net/images/anime/1714/148317.webp)<br>Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru | ![Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru](https://cdn.myanimelist.net/images/anime/1714/148317.webp)<br>Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru |
+| ![Shoushimin Series 2nd Season](https://cdn.myanimelist.net/images/anime/1224/148321.webp)<br>Shoushimin Series 2nd Season | ![Shoushimin Series 2nd Season](https://cdn.myanimelist.net/images/anime/1224/148321.webp)<br>Shoushimin Series 2nd Season |
+| ![Ore wa Seikan Kokka no Akutoku Ryoushu!](https://cdn.myanimelist.net/images/anime/1703/148600.webp)<br>Ore wa Seikan Kokka no Akutoku Ryoushu! | ![Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi](https://cdn.myanimelist.net/images/anime/1743/148272.webp)<br>Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi |
+| ![Sentai Daishikkaku 2nd Season](https://cdn.myanimelist.net/images/anime/1405/147694.webp)<br>Sentai Daishikkaku 2nd Season |  |
