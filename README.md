@@ -1,15 +1,7 @@
-# Anime Schedule for Sunday
-Here is a list of anime that aired on **Sunday** 
+# Anime Schedule for Monday
+Here is a list of anime that aired on **Monday** 
 | Anime | Anime |
 |-------|-------|
-| ![Go! Go! Vehicle Zoo: Vehicle Star-hen](https://cdn.myanimelist.net/images/anime/1889/148647.webp)<br>Go! Go! Vehicle Zoo: Vehicle Star-hen | ![Sai-Kyo-Oh! Zukan: The Ultimate Tournament](https://cdn.myanimelist.net/images/anime/1531/150143.webp)<br>Sai-Kyo-Oh! Zukan: The Ultimate Tournament |
-| ![Manul no Yuube](https://cdn.myanimelist.net/images/anime/1980/96936.webp)<br>Manul no Yuube | ![Himitsu no AiPri: Ring-hen](https://cdn.myanimelist.net/images/anime/1799/148164.webp)<br>Himitsu no AiPri: Ring-hen |
-| ![Koupen-chan](https://cdn.myanimelist.net/images/anime/1533/146981.webp)<br>Koupen-chan | ![Classic★Stars](https://cdn.myanimelist.net/images/anime/1564/148380.webp)<br>Classic★Stars |
-| ![Kimi to Idol Precure♪](https://cdn.myanimelist.net/images/anime/1277/147358.webp)<br>Kimi to Idol Precure♪ | ![Kimi to Idol Precure♪](https://cdn.myanimelist.net/images/anime/1277/147358.webp)<br>Kimi to Idol Precure♪ |
-| ![Princession Orchestra](https://cdn.myanimelist.net/images/anime/1831/149970.webp)<br>Princession Orchestra | ![Chibi Maruko-chan (1995)](https://cdn.myanimelist.net/images/anime/1108/100604.webp)<br>Chibi Maruko-chan (1995) |
-| ![Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu](https://cdn.myanimelist.net/images/anime/1231/149888.webp)<br>Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu | ![Sazae-san](https://cdn.myanimelist.net/images/anime/1008/98996.webp)<br>Sazae-san |
-| ![Hibi wa Sugiredo Meshi Umashi](https://cdn.myanimelist.net/images/anime/1221/148863.webp)<br>Hibi wa Sugiredo Meshi Umashi | ![Uma Musume: Cinderella Gray](https://cdn.myanimelist.net/images/anime/1626/148097.webp)<br>Uma Musume: Cinderella Gray |
-| ![Uma Musume: Cinderella Gray](https://cdn.myanimelist.net/images/anime/1626/148097.webp)<br>Uma Musume: Cinderella Gray | ![Mono](https://cdn.myanimelist.net/images/anime/1677/148603.webp)<br>Mono |
-| ![Sentai Daishikkaku 2nd Season](https://cdn.myanimelist.net/images/anime/1405/147694.webp)<br>Sentai Daishikkaku 2nd Season | ![A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.](https://cdn.myanimelist.net/images/anime/1897/149800.webp)<br>A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. |
-| ![A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.](https://cdn.myanimelist.net/images/anime/1897/149800.webp)<br>A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. | ![Witch Watch](https://cdn.myanimelist.net/images/anime/1526/150689.webp)<br>Witch Watch |
-| ![Lazarus](https://cdn.myanimelist.net/images/anime/1098/150300.webp)<br>Lazarus | ![One Piece](https://cdn.myanimelist.net/images/anime/1244/138851.webp)<br>One Piece |
+| ![Shin Nippon History](https://cdn.myanimelist.net/images/anime/1433/134811.webp)<br>Shin Nippon History | ![Puzzle & Dragon](https://cdn.myanimelist.net/images/anime/1460/149962.webp)<br>Puzzle & Dragon |
+| ![Neko ni Tensei shita Ojisan](https://cdn.myanimelist.net/images/anime/1562/149986.webp)<br>Neko ni Tensei shita Ojisan | ![Haigakura](https://cdn.myanimelist.net/images/anime/1214/142185.webp)<br>Haigakura |
+| ![Summer Pockets](https://cdn.myanimelist.net/images/anime/1691/148602.webp)<br>Summer Pockets | ![Vigilante: Boku no Hero Academia Illegals](https://cdn.myanimelist.net/images/anime/1538/148604.webp)<br>Vigilante: Boku no Hero Academia Illegals |
