@@ -1,7 +1,6 @@
-# Anime Schedule for Monday
-Here is a list of anime that aired on **Monday** 
+# Anime Schedule for Tuesday
+Here is a list of anime that aired on **Tuesday** 
 | Anime | Anime |
 |-------|-------|
-| ![Shin Nippon History](https://cdn.myanimelist.net/images/anime/1433/134811.webp)<br>Shin Nippon History | ![Puzzle & Dragon](https://cdn.myanimelist.net/images/anime/1460/149962.webp)<br>Puzzle & Dragon |
-| ![Neko ni Tensei shita Ojisan](https://cdn.myanimelist.net/images/anime/1562/149986.webp)<br>Neko ni Tensei shita Ojisan | ![Haigakura](https://cdn.myanimelist.net/images/anime/1214/142185.webp)<br>Haigakura |
-| ![Summer Pockets](https://cdn.myanimelist.net/images/anime/1691/148602.webp)<br>Summer Pockets | ![Vigilante: Boku no Hero Academia Illegals](https://cdn.myanimelist.net/images/anime/1538/148604.webp)<br>Vigilante: Boku no Hero Academia Illegals |
+| ![YouTuNya 3rd Season](https://cdn.myanimelist.net/images/anime/1832/150003.webp)<br>YouTuNya 3rd Season | ![Origami Ninja Koyankinte](https://cdn.myanimelist.net/images/anime/1860/106477.webp)<br>Origami Ninja Koyankinte |
+| ![Fushigi Dagashiya: Zenitendou](https://cdn.myanimelist.net/images/anime/1602/150098.webp)<br>Fushigi Dagashiya: Zenitendou | ![Kijin Gentoushou](https://cdn.myanimelist.net/images/anime/1722/148906.webp)<br>Kijin Gentoushou |
