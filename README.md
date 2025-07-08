@@ -1,8 +1,8 @@
-# Anime Schedule for Tuesday
-Here is a list of anime that aired on **Tuesday** 
+# Anime Schedule for Wednesday
+Here is a list of anime that aired on **Wednesday** 
 | Anime | Anime |
 |-------|-------|
-| ![Origami Ninja Koyankinte](https://cdn.myanimelist.net/images/anime/1860/106477.webp)<br>Origami Ninja Koyankinte | ![Fushigi Dagashiya: Zenitendou](https://cdn.myanimelist.net/images/anime/1602/150098.webp)<br>Fushigi Dagashiya: Zenitendou |
-| ![Necronomico no Cosmic Horror Show](https://cdn.myanimelist.net/images/anime/1845/150343.webp)<br>Necronomico no Cosmic Horror Show | ![Mattaku Saikin no Tantei to Kitara](https://cdn.myanimelist.net/images/anime/1323/149460.webp)<br>Mattaku Saikin no Tantei to Kitara |
-| ![Mattaku Saikin no Tantei to Kitara](https://cdn.myanimelist.net/images/anime/1323/149460.webp)<br>Mattaku Saikin no Tantei to Kitara | ![Grand Blue Season 2](https://cdn.myanimelist.net/images/anime/1108/150583.webp)<br>Grand Blue Season 2 |
-| ![Kijin Gentoushou](https://cdn.myanimelist.net/images/anime/1722/148906.webp)<br>Kijin Gentoushou |  |
+| ![Zenryoku Usagi (2023) 2nd Season](https://cdn.myanimelist.net/images/anime/1297/150031.webp)<br>Zenryoku Usagi (2023) 2nd Season | ![Chibi Godzilla no Gyakushuu 3rd Season](https://cdn.myanimelist.net/images/anime/1859/150334.webp)<br>Chibi Godzilla no Gyakushuu 3rd Season |
+| ![Pochars](https://cdn.myanimelist.net/images/anime/1155/145243.webp)<br>Pochars | ![Jigoku Sensei Nube (2025)](https://cdn.myanimelist.net/images/anime/1637/148197.webp)<br>Jigoku Sensei Nube (2025) |
+| ![Jigoku Sensei Nube (2025)](https://cdn.myanimelist.net/images/anime/1637/148197.webp)<br>Jigoku Sensei Nube (2025) | ![Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season](https://cdn.myanimelist.net/images/anime/1297/150516.webp)<br>Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season |
+| ![Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha](https://cdn.myanimelist.net/images/anime/1255/150593.webp)<br>Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha |  |
