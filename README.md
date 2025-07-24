@@ -1,10 +1,13 @@
-# Anime Schedule for Thursday
-Here is a list of anime that aired on **Thursday** 
+# Anime Schedule for Friday
+Here is a list of anime that aired on **Friday** 
 | Anime | Anime |
 |-------|-------|
-| ![Utagoe wa Mille-Feuille](https://cdn.myanimelist.net/images/anime/1866/150935.webp)<br>Utagoe wa Mille-Feuille | ![Ginga Tokkyuu Milky☆Subway](https://cdn.myanimelist.net/images/anime/1464/150712.webp)<br>Ginga Tokkyuu Milky☆Subway |
-| ![Kamitsubaki-shi Kensetsuchuu.](https://cdn.myanimelist.net/images/anime/1967/148714.webp)<br>Kamitsubaki-shi Kensetsuchuu. | ![Uchuujin MuuMuu](https://cdn.myanimelist.net/images/anime/1979/148096.webp)<br>Uchuujin MuuMuu |
-| ![Kizu darake Seijo yori Houfuku wo Komete](https://cdn.myanimelist.net/images/anime/1546/145782.webp)<br>Kizu darake Seijo yori Houfuku wo Komete | ![Onmyou Kaiten Re:Birth](https://cdn.myanimelist.net/images/anime/1933/150503.webp)<br>Onmyou Kaiten Re:Birth |
-| ![Tsuihousha Shokudou e Youkoso!](https://cdn.myanimelist.net/images/anime/1313/149355.webp)<br>Tsuihousha Shokudou e Youkoso! | ![Mikadono Sanshimai wa Angai, Choroi.](https://cdn.myanimelist.net/images/anime/1949/150965.webp)<br>Mikadono Sanshimai wa Angai, Choroi. |
-| ![Tsuyokute New Saga](https://cdn.myanimelist.net/images/anime/1170/147753.webp)<br>Tsuyokute New Saga | ![New Panty & Stocking with Garterbelt](https://cdn.myanimelist.net/images/anime/1180/150596.webp)<br>New Panty & Stocking with Garterbelt |
-| ![Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season](https://cdn.myanimelist.net/images/anime/1154/149614.webp)<br>Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season | ![Dr. Stone: Science Future Part 2](https://cdn.myanimelist.net/images/anime/1335/148849.webp)<br>Dr. Stone: Science Future Part 2 |
+| ![Minimini Minini](https://cdn.myanimelist.net/images/anime/1753/148560.webp)<br>Minimini Minini | ![Nmeneko](https://cdn.myanimelist.net/images/anime/1989/149978.webp)<br>Nmeneko |
+| ![Araiguma Calcal-dan](https://cdn.myanimelist.net/images/anime/1016/149942.webp)<br>Araiguma Calcal-dan | ![Sore Ike! Anpanman](https://cdn.myanimelist.net/images/anime/1902/111797.webp)<br>Sore Ike! Anpanman |
+| ![Beyblade X](https://cdn.myanimelist.net/images/anime/1394/145458.webp)<br>Beyblade X | ![Chiikawa](https://cdn.myanimelist.net/images/anime/1783/121944.webp)<br>Chiikawa |
+| ![Futari Solo Camp](https://cdn.myanimelist.net/images/anime/1904/150649.webp)<br>Futari Solo Camp | ![Doraemon (2005)](https://cdn.myanimelist.net/images/anime/6/23935.webp)<br>Doraemon (2005) |
+| ![Arknights: Rise from Ember](https://cdn.myanimelist.net/images/anime/1790/149462.webp)<br>Arknights: Rise from Ember | ![Busu ni Hanataba wo.](https://cdn.myanimelist.net/images/anime/1672/148193.webp)<br>Busu ni Hanataba wo. |
+| ![Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru](https://cdn.myanimelist.net/images/anime/1072/149889.webp)<br>Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru | ![Pokemon (2023)](https://cdn.myanimelist.net/images/anime/1703/137216.webp)<br>Pokemon (2023) |
+| ![Tougen Anki](https://cdn.myanimelist.net/images/anime/1474/150666.webp)<br>Tougen Anki | ![Mizu Zokusei no Mahoutsukai](https://cdn.myanimelist.net/images/anime/1383/151072.webp)<br>Mizu Zokusei no Mahoutsukai |
+| ![Crayon Shin-chan](https://cdn.myanimelist.net/images/anime/10/59897.webp)<br>Crayon Shin-chan | ![Yofukashi no Uta Season 2](https://cdn.myanimelist.net/images/anime/1509/148453.webp)<br>Yofukashi no Uta Season 2 |
+| ![Dandadan 2nd Season](https://cdn.myanimelist.net/images/anime/1721/149001.webp)<br>Dandadan 2nd Season | ![Dandadan 2nd Season](https://cdn.myanimelist.net/images/anime/1721/149001.webp)<br>Dandadan 2nd Season |
