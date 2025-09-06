@@ -1,15 +1,17 @@
-# Anime Schedule for Saturday
-Here is a list of anime that aired on **Saturday** 
+# Anime Schedule for Sunday
+Here is a list of anime that aired on **Sunday** 
 | Anime | Anime |
 |-------|-------|
-| ![Gakkou de wa Oshiete Kurenai Taisetsu na Koto](https://cdn.myanimelist.net/images/anime/1791/149887.webp)<br>Gakkou de wa Oshiete Kurenai Taisetsu na Koto | ![Punirunes: Puni 3](https://cdn.myanimelist.net/images/anime/1095/150294.webp)<br>Punirunes: Puni 3 |
-| ![Oshiri Tantei 9th Season](https://cdn.myanimelist.net/images/anime/1128/149981.webp)<br>Oshiri Tantei 9th Season | ![Shimajirou no Wow!](https://cdn.myanimelist.net/images/anime/9/50737.webp)<br>Shimajirou no Wow! |
-| ![Kaijuu Sekai Seifuku (TV)](https://cdn.myanimelist.net/images/anime/1582/150123.webp)<br>Kaijuu Sekai Seifuku (TV) | ![Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen](https://cdn.myanimelist.net/images/anime/1878/150315.webp)<br>Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen |
-| ![Ninjala (TV)](https://cdn.myanimelist.net/images/anime/1552/119871.webp)<br>Ninjala (TV) | ![Bonobono (TV 2016)](https://cdn.myanimelist.net/images/anime/1686/149949.webp)<br>Bonobono (TV 2016) |
-| ![Everyday Host](https://cdn.myanimelist.net/images/anime/1793/150282.webp)<br>Everyday Host | ![9: Ruler's Crown](https://cdn.myanimelist.net/images/anime/1199/151679.webp)<br>9: Ruler's Crown |
-| ![Fermat no Ryouri](https://cdn.myanimelist.net/images/anime/1104/150590.webp)<br>Fermat no Ryouri | ![Nukitashi the Animation](https://cdn.myanimelist.net/images/anime/1587/149982.webp)<br>Nukitashi the Animation |
-| ![Kizetsu Yuusha to Ansatsu Hime](https://cdn.myanimelist.net/images/anime/1777/150455.webp)<br>Kizetsu Yuusha to Ansatsu Hime | ![Shin Samurai-den Yaiba](https://cdn.myanimelist.net/images/anime/1872/150755.webp)<br>Shin Samurai-den Yaiba |
-| ![Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru](https://cdn.myanimelist.net/images/anime/1514/151667.webp)<br>Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru | ![Watari-kun no xx ga Houkai Sunzen](https://cdn.myanimelist.net/images/anime/1502/150545.webp)<br>Watari-kun no xx ga Houkai Sunzen |
-| ![Anne Shirley](https://cdn.myanimelist.net/images/anime/1564/150049.webp)<br>Anne Shirley | ![Kanojo, Okarishimasu 4th Season](https://cdn.myanimelist.net/images/anime/1071/150808.webp)<br>Kanojo, Okarishimasu 4th Season |
-| ![Silent Witch: Chinmoku no Majo no Kakushigoto](https://cdn.myanimelist.net/images/anime/1669/149732.webp)<br>Silent Witch: Chinmoku no Majo no Kakushigoto | ![Seishun Buta Yarou wa Santa Claus no Yume wo Minai](https://cdn.myanimelist.net/images/anime/1823/149858.webp)<br>Seishun Buta Yarou wa Santa Claus no Yume wo Minai |
-| ![Kaijuu 8-gou 2nd Season](https://cdn.myanimelist.net/images/anime/1177/150344.webp)<br>Kaijuu 8-gou 2nd Season | ![Meitantei Conan](https://cdn.myanimelist.net/images/anime/7/75199.webp)<br>Meitantei Conan |
+| ![Tomica to Tom (TV)](https://cdn.myanimelist.net/images/anime/1521/151096.webp)<br>Tomica to Tom (TV) | ![Sai-Kyo-Oh! Zukan: The Ultimate Tournament](https://cdn.myanimelist.net/images/anime/1531/150143.webp)<br>Sai-Kyo-Oh! Zukan: The Ultimate Tournament |
+| ![Manul no Yuube](https://cdn.myanimelist.net/images/anime/1980/96936.webp)<br>Manul no Yuube | ![Shuukan Ranobe Anime](https://cdn.myanimelist.net/images/anime/1260/150826.webp)<br>Shuukan Ranobe Anime |
+| ![Himitsu no AiPri: Ring-hen](https://cdn.myanimelist.net/images/anime/1799/148164.webp)<br>Himitsu no AiPri: Ring-hen | ![Puniru wa Kawaii Slime 2nd Season](https://cdn.myanimelist.net/images/anime/1415/150405.webp)<br>Puniru wa Kawaii Slime 2nd Season |
+| ![Koupen-chan](https://cdn.myanimelist.net/images/anime/1533/146981.webp)<br>Koupen-chan | ![Kimi to Idol Precure♪](https://cdn.myanimelist.net/images/anime/1277/147358.webp)<br>Kimi to Idol Precure♪ |
+| ![Princession Orchestra](https://cdn.myanimelist.net/images/anime/1831/149970.webp)<br>Princession Orchestra | ![Chibi Maruko-chan (1995)](https://cdn.myanimelist.net/images/anime/1108/100604.webp)<br>Chibi Maruko-chan (1995) |
+| ![Sazae-san](https://cdn.myanimelist.net/images/anime/1008/98996.webp)<br>Sazae-san | ![Hotel Inhumans](https://cdn.myanimelist.net/images/anime/1900/150443.webp)<br>Hotel Inhumans |
+| ![Bad Girl](https://cdn.myanimelist.net/images/anime/1672/148848.webp)<br>Bad Girl | ![Game Center Shoujo to Ibunka Kouryuu](https://cdn.myanimelist.net/images/anime/1943/149719.webp)<br>Game Center Shoujo to Ibunka Kouryuu |
+| ![Busamen Gachi Fighter](https://cdn.myanimelist.net/images/anime/1454/150515.webp)<br>Busamen Gachi Fighter | ![Koujo Denka no Kateikyoushi](https://cdn.myanimelist.net/images/anime/1445/150685.webp)<br>Koujo Denka no Kateikyoushi |
+| ![Jibaku Shounen Hanako-kun 2 Part 2](https://cdn.myanimelist.net/images/anime/1484/150617.webp)<br>Jibaku Shounen Hanako-kun 2 Part 2 | ![Ame to Kimi to](https://cdn.myanimelist.net/images/anime/1329/150512.webp)<br>Ame to Kimi to |
+| ![Ruri no Houseki](https://cdn.myanimelist.net/images/anime/1431/148742.webp)<br>Ruri no Houseki | ![Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku](https://cdn.myanimelist.net/images/anime/1782/150383.webp)<br>Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku |
+| ![Witch Watch](https://cdn.myanimelist.net/images/anime/1526/150689.webp)<br>Witch Watch | ![Hikaru ga Shinda Natsu](https://cdn.myanimelist.net/images/anime/1104/148614.webp)<br>Hikaru ga Shinda Natsu |
+| ![Gachiakuta](https://cdn.myanimelist.net/images/anime/1682/150432.webp)<br>Gachiakuta | ![Kaoru Hana wa Rin to Saku](https://cdn.myanimelist.net/images/anime/1744/150433.webp)<br>Kaoru Hana wa Rin to Saku |
+| ![Sono Bisque Doll wa Koi wo Suru Season 2](https://cdn.myanimelist.net/images/anime/1024/150787.webp)<br>Sono Bisque Doll wa Koi wo Suru Season 2 |  |
