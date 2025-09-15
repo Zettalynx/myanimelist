@@ -1,8 +1,9 @@
-# Anime Schedule for Monday
-Here is a list of anime that aired on **Monday** 
+# Anime Schedule for Tuesday
+Here is a list of anime that aired on **Tuesday** 
 | Anime | Anime |
 |-------|-------|
-| ![Shinobanai! Crypto Ninja Sakuya: San no Maki](https://cdn.myanimelist.net/images/anime/1150/150974.webp)<br>Shinobanai! Crypto Ninja Sakuya: San no Maki | ![Shin Nippon History](https://cdn.myanimelist.net/images/anime/1433/134811.webp)<br>Shin Nippon History |
-| ![Puzzle & Dragon](https://cdn.myanimelist.net/images/anime/1460/149962.webp)<br>Puzzle & Dragon | ![Yami Shibai 15](https://cdn.myanimelist.net/images/anime/1975/150436.webp)<br>Yami Shibai 15 |
-| ![Binan Koukou Chikyuu Bouei-bu Haikara!](https://cdn.myanimelist.net/images/anime/1083/150814.webp)<br>Binan Koukou Chikyuu Bouei-bu Haikara! | ![Dekin no Mogura](https://cdn.myanimelist.net/images/anime/1154/149311.webp)<br>Dekin no Mogura |
-| ![City The Animation](https://cdn.myanimelist.net/images/anime/1829/145678.webp)<br>City The Animation | ![Summer Pockets](https://cdn.myanimelist.net/images/anime/1691/148602.webp)<br>Summer Pockets |
+| ![Origami Ninja Koyankinte](https://cdn.myanimelist.net/images/anime/1860/106477.webp)<br>Origami Ninja Koyankinte | ![Fushigi Dagashiya: Zenitendou](https://cdn.myanimelist.net/images/anime/1602/150098.webp)<br>Fushigi Dagashiya: Zenitendou |
+| ![Necronomico no Cosmic Horror Show](https://cdn.myanimelist.net/images/anime/1845/150343.webp)<br>Necronomico no Cosmic Horror Show | ![Nyaight of the Living Cat](https://cdn.myanimelist.net/images/anime/1411/150445.webp)<br>Nyaight of the Living Cat |
+| ![Mattaku Saikin no Tantei to Kitara](https://cdn.myanimelist.net/images/anime/1323/149460.webp)<br>Mattaku Saikin no Tantei to Kitara | ![Kakkou no Iinazuke Season 2](https://cdn.myanimelist.net/images/anime/1551/150517.webp)<br>Kakkou no Iinazuke Season 2 |
+| ![Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)](https://cdn.myanimelist.net/images/anime/1887/150496.webp)<br>Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?) | ![Kijin Gentoushou](https://cdn.myanimelist.net/images/anime/1722/148906.webp)<br>Kijin Gentoushou |
+| ![Grand Blue Season 2](https://cdn.myanimelist.net/images/anime/1108/150583.webp)<br>Grand Blue Season 2 | ![Sakamoto Days Part 2](https://cdn.myanimelist.net/images/anime/1758/148719.webp)<br>Sakamoto Days Part 2 |
