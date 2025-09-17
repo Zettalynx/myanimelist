@@ -1,8 +1,11 @@
-# Anime Schedule for Wednesday
-Here is a list of anime that aired on **Wednesday** 
+# Anime Schedule for Thursday
+Here is a list of anime that aired on **Thursday** 
 | Anime | Anime |
 |-------|-------|
-| ![Chibi Godzilla no Gyakushuu 3rd Season](https://cdn.myanimelist.net/images/anime/1859/150334.webp)<br>Chibi Godzilla no Gyakushuu 3rd Season | ![Pochars](https://cdn.myanimelist.net/images/anime/1155/145243.webp)<br>Pochars |
-| ![Osomatsu-san 4th Season](https://cdn.myanimelist.net/images/anime/1018/150416.webp)<br>Osomatsu-san 4th Season | ![Turkey!](https://cdn.myanimelist.net/images/anime/1977/150952.webp)<br>Turkey! |
-| ![Jigoku Sensei Nube (2025)](https://cdn.myanimelist.net/images/anime/1637/148197.webp)<br>Jigoku Sensei Nube (2025) | ![Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season](https://cdn.myanimelist.net/images/anime/1297/150516.webp)<br>Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season |
-| ![Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha](https://cdn.myanimelist.net/images/anime/1255/150593.webp)<br>Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha | ![Tate no Yuusha no Nariagari Season 4](https://cdn.myanimelist.net/images/anime/1638/150592.webp)<br>Tate no Yuusha no Nariagari Season 4 |
+| ![Utagoe wa Mille-Feuille](https://cdn.myanimelist.net/images/anime/1866/150935.webp)<br>Utagoe wa Mille-Feuille | ![Ginga Tokkyuu Milky☆Subway](https://cdn.myanimelist.net/images/anime/1464/150712.webp)<br>Ginga Tokkyuu Milky☆Subway |
+| ![Kamitsubaki-shi Kensetsuchuu.](https://cdn.myanimelist.net/images/anime/1967/148714.webp)<br>Kamitsubaki-shi Kensetsuchuu. | ![Muchuu sa, Kimi ni.](https://cdn.myanimelist.net/images/anime/1359/150668.webp)<br>Muchuu sa, Kimi ni. |
+| ![Uchuujin MuuMuu](https://cdn.myanimelist.net/images/anime/1979/148096.webp)<br>Uchuujin MuuMuu | ![Kizu darake Seijo yori Houfuku wo Komete](https://cdn.myanimelist.net/images/anime/1546/145782.webp)<br>Kizu darake Seijo yori Houfuku wo Komete |
+| ![Karaoke Iko!](https://cdn.myanimelist.net/images/anime/1801/150665.webp)<br>Karaoke Iko! | ![Onmyou Kaiten Re:Birth](https://cdn.myanimelist.net/images/anime/1933/150503.webp)<br>Onmyou Kaiten Re:Birth |
+| ![Tsuihousha Shokudou e Youkoso!](https://cdn.myanimelist.net/images/anime/1313/149355.webp)<br>Tsuihousha Shokudou e Youkoso! | ![Tsuyokute New Saga](https://cdn.myanimelist.net/images/anime/1170/147753.webp)<br>Tsuyokute New Saga |
+| ![Mikadono Sanshimai wa Angai, Choroi.](https://cdn.myanimelist.net/images/anime/1949/150965.webp)<br>Mikadono Sanshimai wa Angai, Choroi. | ![New Panty & Stocking with Garterbelt](https://cdn.myanimelist.net/images/anime/1180/150596.webp)<br>New Panty & Stocking with Garterbelt |
+| ![Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season](https://cdn.myanimelist.net/images/anime/1154/149614.webp)<br>Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season | ![Dr. Stone: Science Future Part 2](https://cdn.myanimelist.net/images/anime/1785/151710.webp)<br>Dr. Stone: Science Future Part 2 |
