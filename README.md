@@ -1,13 +1,13 @@
-# Anime Schedule for Friday
-Here is a list of anime that aired on **Friday** 
+# Anime Schedule for Saturday
+Here is a list of anime that aired on **Saturday** 
 | Anime | Anime |
 |-------|-------|
-| ![Chikyuu no Latair](https://cdn.myanimelist.net/images/anime/1334/151528.webp)<br>Chikyuu no Latair | ![Chikyuu no Latair](https://cdn.myanimelist.net/images/anime/1334/151528.webp)<br>Chikyuu no Latair |
-| ![Chikyuu no Latair](https://cdn.myanimelist.net/images/anime/1334/151528.webp)<br>Chikyuu no Latair | ![Minimini Minini](https://cdn.myanimelist.net/images/anime/1753/148560.webp)<br>Minimini Minini |
-| ![Sumikko Gurashi: Koko ga Ochitsukun desu](https://cdn.myanimelist.net/images/anime/1177/149954.webp)<br>Sumikko Gurashi: Koko ga Ochitsukun desu | ![Nmeneko](https://cdn.myanimelist.net/images/anime/1989/149978.webp)<br>Nmeneko |
-| ![Sore Ike! Anpanman](https://cdn.myanimelist.net/images/anime/1902/111797.webp)<br>Sore Ike! Anpanman | ![Beyblade X](https://cdn.myanimelist.net/images/anime/1394/145458.webp)<br>Beyblade X |
-| ![Chiikawa](https://cdn.myanimelist.net/images/anime/1783/121944.webp)<br>Chiikawa | ![Haigakura](https://cdn.myanimelist.net/images/anime/1214/142185.webp)<br>Haigakura |
-| ![Doraemon (2005)](https://cdn.myanimelist.net/images/anime/6/23935.webp)<br>Doraemon (2005) | ![Futari Solo Camp](https://cdn.myanimelist.net/images/anime/1904/150649.webp)<br>Futari Solo Camp |
-| ![Busu ni Hanataba wo.](https://cdn.myanimelist.net/images/anime/1672/148193.webp)<br>Busu ni Hanataba wo. | ![Pokemon (2023)](https://cdn.myanimelist.net/images/anime/1703/137216.webp)<br>Pokemon (2023) |
-| ![Crayon Shin-chan](https://cdn.myanimelist.net/images/anime/10/59897.webp)<br>Crayon Shin-chan | ![Tougen Anki](https://cdn.myanimelist.net/images/anime/1474/150666.webp)<br>Tougen Anki |
-| ![Mizu Zokusei no Mahoutsukai](https://cdn.myanimelist.net/images/anime/1383/151072.webp)<br>Mizu Zokusei no Mahoutsukai |  |
+| ![Gakkou de wa Oshiete Kurenai Taisetsu na Koto](https://cdn.myanimelist.net/images/anime/1791/149887.webp)<br>Gakkou de wa Oshiete Kurenai Taisetsu na Koto | ![Punirunes: Puni 3](https://cdn.myanimelist.net/images/anime/1095/150294.webp)<br>Punirunes: Puni 3 |
+| ![Oshiri Tantei 9th Season](https://cdn.myanimelist.net/images/anime/1128/149981.webp)<br>Oshiri Tantei 9th Season | ![Shimajirou no Wow!](https://cdn.myanimelist.net/images/anime/9/50737.webp)<br>Shimajirou no Wow! |
+| ![Kaijuu Sekai Seifuku (TV)](https://cdn.myanimelist.net/images/anime/1582/150123.webp)<br>Kaijuu Sekai Seifuku (TV) | ![Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen](https://cdn.myanimelist.net/images/anime/1878/150315.webp)<br>Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen |
+| ![Ninjala (TV)](https://cdn.myanimelist.net/images/anime/1552/119871.webp)<br>Ninjala (TV) | ![Bonobono (TV 2016)](https://cdn.myanimelist.net/images/anime/1686/149949.webp)<br>Bonobono (TV 2016) |
+| ![9: Ruler's Crown](https://cdn.myanimelist.net/images/anime/1199/151679.webp)<br>9: Ruler's Crown | ![Fermat no Ryouri](https://cdn.myanimelist.net/images/anime/1104/150590.webp)<br>Fermat no Ryouri |
+| ![Shin Samurai-den Yaiba](https://cdn.myanimelist.net/images/anime/1872/150755.webp)<br>Shin Samurai-den Yaiba | ![Anne Shirley](https://cdn.myanimelist.net/images/anime/1564/150049.webp)<br>Anne Shirley |
+| ![Watari-kun no xx ga Houkai Sunzen](https://cdn.myanimelist.net/images/anime/1502/150545.webp)<br>Watari-kun no xx ga Houkai Sunzen | ![Silent Witch: Chinmoku no Majo no Kakushigoto](https://cdn.myanimelist.net/images/anime/1669/149732.webp)<br>Silent Witch: Chinmoku no Majo no Kakushigoto |
+| ![Seishun Buta Yarou wa Santa Claus no Yume wo Minai](https://cdn.myanimelist.net/images/anime/1823/149858.webp)<br>Seishun Buta Yarou wa Santa Claus no Yume wo Minai | ![Kaijuu 8-gou 2nd Season](https://cdn.myanimelist.net/images/anime/1177/150344.webp)<br>Kaijuu 8-gou 2nd Season |
+| ![Meitantei Conan](https://cdn.myanimelist.net/images/anime/7/75199.webp)<br>Meitantei Conan |  |
