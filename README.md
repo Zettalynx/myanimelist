@@ -1,15 +1,17 @@
-# Anime Schedule for Saturday
-Here is a list of anime that aired on **Saturday** 
+# Anime Schedule for Sunday
+Here is a list of anime that aired on **Sunday** 
 | Anime | Anime |
 |-------|-------|
-| ![Jochum Season 2](https://cdn.myanimelist.net/images/anime/1017/151409.webp)<br>Jochum Season 2 | ![Gakkou de wa Oshiete Kurenai Taisetsu na Koto](https://cdn.myanimelist.net/images/anime/1791/149887.webp)<br>Gakkou de wa Oshiete Kurenai Taisetsu na Koto |
-| ![Shibuya♡Hachi Part 4](https://cdn.myanimelist.net/images/anime/1958/152020.webp)<br>Shibuya♡Hachi Part 4 | ![Punirunes: Puni 3](https://cdn.myanimelist.net/images/anime/1095/150294.webp)<br>Punirunes: Puni 3 |
-| ![Oshiri Tantei 9th Season](https://cdn.myanimelist.net/images/anime/1128/149981.webp)<br>Oshiri Tantei 9th Season | ![Kagaku x Bouken Survival! 2nd Season](https://cdn.myanimelist.net/images/anime/1191/151082.webp)<br>Kagaku x Bouken Survival! 2nd Season |
-| ![Shimajirou no Wow!](https://cdn.myanimelist.net/images/anime/9/50737.webp)<br>Shimajirou no Wow! | ![Kaijuu Sekai Seifuku (TV)](https://cdn.myanimelist.net/images/anime/1582/150123.webp)<br>Kaijuu Sekai Seifuku (TV) |
-| ![Ninjala (TV)](https://cdn.myanimelist.net/images/anime/1552/119871.webp)<br>Ninjala (TV) | ![Bonobono (TV 2016)](https://cdn.myanimelist.net/images/anime/1686/149949.webp)<br>Bonobono (TV 2016) |
-| ![Shuumatsu Touring](https://cdn.myanimelist.net/images/anime/1681/151599.webp)<br>Shuumatsu Touring | ![Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun](https://cdn.myanimelist.net/images/anime/1363/151886.webp)<br>Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun |
-| ![Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezasu](https://cdn.myanimelist.net/images/anime/1362/151636.webp)<br>Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezasu | ![Kekkon Yubiwa Monogatari II](https://cdn.myanimelist.net/images/anime/1478/151722.webp)<br>Kekkon Yubiwa Monogatari II |
-| ![Yasei no Last Boss ga Arawareta!](https://cdn.myanimelist.net/images/anime/1830/145051.webp)<br>Yasei no Last Boss ga Arawareta! | ![Sanda](https://cdn.myanimelist.net/images/anime/1364/151767.webp)<br>Sanda |
-| ![Watari-kun no xx ga Houkai Sunzen](https://cdn.myanimelist.net/images/anime/1502/150545.webp)<br>Watari-kun no xx ga Houkai Sunzen | ![Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka](https://cdn.myanimelist.net/images/anime/1190/151754.webp)<br>Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka |
-| ![Fumetsu no Anata e Season 3](https://cdn.myanimelist.net/images/anime/1140/152364.webp)<br>Fumetsu no Anata e Season 3 | ![Boku no Hero Academia: Final Season](https://cdn.myanimelist.net/images/anime/1959/151055.webp)<br>Boku no Hero Academia: Final Season |
-| ![Spy x Family Season 3](https://cdn.myanimelist.net/images/anime/1697/151793.webp)<br>Spy x Family Season 3 | ![Meitantei Conan](https://cdn.myanimelist.net/images/anime/7/75199.webp)<br>Meitantei Conan |
+| ![Tomica to Tom (TV)](https://cdn.myanimelist.net/images/anime/1521/151096.webp)<br>Tomica to Tom (TV) | ![Sai-Kyo-Oh! Zukan: The Ultimate Tournament](https://cdn.myanimelist.net/images/anime/1531/150143.webp)<br>Sai-Kyo-Oh! Zukan: The Ultimate Tournament |
+| ![Manul no Yuube](https://cdn.myanimelist.net/images/anime/1980/96936.webp)<br>Manul no Yuube | ![Himitsu no AiPri: Ring-hen](https://cdn.myanimelist.net/images/anime/1799/148164.webp)<br>Himitsu no AiPri: Ring-hen |
+| ![Koupen-chan](https://cdn.myanimelist.net/images/anime/1533/146981.webp)<br>Koupen-chan | ![SI-VIS: The Sound of Heroes](https://cdn.myanimelist.net/images/anime/1443/151178.webp)<br>SI-VIS: The Sound of Heroes |
+| ![Kimi to Idol Precure♪](https://cdn.myanimelist.net/images/anime/1277/147358.webp)<br>Kimi to Idol Precure♪ | ![Princession Orchestra](https://cdn.myanimelist.net/images/anime/1405/152146.webp)<br>Princession Orchestra |
+| ![Chibi Maruko-chan (1995)](https://cdn.myanimelist.net/images/anime/1108/100604.webp)<br>Chibi Maruko-chan (1995) | ![Sazae-san](https://cdn.myanimelist.net/images/anime/1008/98996.webp)<br>Sazae-san |
+| ![Ao no Orchestra Season 2](https://cdn.myanimelist.net/images/anime/1078/151796.webp)<br>Ao no Orchestra Season 2 | ![Alma-chan wa Kazoku ni Naritai](https://cdn.myanimelist.net/images/anime/1982/151278.webp)<br>Alma-chan wa Kazoku ni Naritai |
+| ![Digimon Beatbreak](https://cdn.myanimelist.net/images/anime/1776/151242.webp)<br>Digimon Beatbreak | ![Gnosia](https://cdn.myanimelist.net/images/anime/1257/152352.webp)<br>Gnosia |
+| ![Kingdom 6th Season](https://cdn.myanimelist.net/images/anime/1282/151476.webp)<br>Kingdom 6th Season | ![Chanto Suenai Kyuuketsuki-chan](https://cdn.myanimelist.net/images/anime/1888/151887.webp)<br>Chanto Suenai Kyuuketsuki-chan |
+| ![Toujima Tanzaburou wa Kamen Rider ni Naritai](https://cdn.myanimelist.net/images/anime/1455/152139.webp)<br>Toujima Tanzaburou wa Kamen Rider ni Naritai | ![Kikaijikake no Marie](https://cdn.myanimelist.net/images/anime/1618/151138.webp)<br>Kikaijikake no Marie |
+| ![Uma Musume: Cinderella Gray Part 2](https://cdn.myanimelist.net/images/anime/1120/152280.webp)<br>Uma Musume: Cinderella Gray Part 2 | ![Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://cdn.myanimelist.net/images/anime/1811/151799.webp)<br>Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. |
+| ![Ranma ½ (2024) 2nd Season](https://cdn.myanimelist.net/images/anime/1011/152084.webp)<br>Ranma ½ (2024) 2nd Season | ![Tomodachi no Imouto ga Ore ni dake Uzai](https://cdn.myanimelist.net/images/anime/1699/151694.webp)<br>Tomodachi no Imouto ga Ore ni dake Uzai |
+| ![Gachiakuta](https://cdn.myanimelist.net/images/anime/1682/150432.webp)<br>Gachiakuta | ![One Punch Man 3](https://cdn.myanimelist.net/images/anime/1168/148347.webp)<br>One Punch Man 3 |
+| ![One Piece](https://cdn.myanimelist.net/images/anime/1244/138851.webp)<br>One Piece |  |
