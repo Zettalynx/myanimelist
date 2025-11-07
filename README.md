@@ -1,14 +1,15 @@
-# Anime Schedule for Friday
-Here is a list of anime that aired on **Friday** 
+# Anime Schedule for Saturday
+Here is a list of anime that aired on **Saturday** 
 | Anime | Anime |
 |-------|-------|
-| ![Minimini Minini](https://cdn.myanimelist.net/images/anime/1753/148560.webp)<br>Minimini Minini | ![Anila to Cocora](https://cdn.myanimelist.net/images/anime/1065/152406.webp)<br>Anila to Cocora |
-| ![Sumikko Gurashi: Koko ga Ochitsukun desu](https://cdn.myanimelist.net/images/anime/1177/149954.webp)<br>Sumikko Gurashi: Koko ga Ochitsukun desu | ![Nmeneko](https://cdn.myanimelist.net/images/anime/1989/149978.webp)<br>Nmeneko |
-| ![Hyakushou Kizoku 3rd Season](https://cdn.myanimelist.net/images/anime/1223/151728.webp)<br>Hyakushou Kizoku 3rd Season | ![Nohara Hiroshi: Hiru Meshi no Ryuugi](https://cdn.myanimelist.net/images/anime/1736/148429.webp)<br>Nohara Hiroshi: Hiru Meshi no Ryuugi |
-| ![Sore Ike! Anpanman](https://cdn.myanimelist.net/images/anime/1902/111797.webp)<br>Sore Ike! Anpanman | ![Ganglion](https://cdn.myanimelist.net/images/anime/1333/151768.webp)<br>Ganglion |
-| ![Beyblade X](https://cdn.myanimelist.net/images/anime/1394/145458.webp)<br>Beyblade X | ![Potion, Wagami wo Tasukeru](https://cdn.myanimelist.net/images/anime/1311/151227.webp)<br>Potion, Wagami wo Tasukeru |
-| ![Shabake](https://cdn.myanimelist.net/images/anime/1736/152179.webp)<br>Shabake | ![Chiikawa](https://cdn.myanimelist.net/images/anime/1783/121944.webp)<br>Chiikawa |
-| ![Doraemon (2005)](https://cdn.myanimelist.net/images/anime/6/23935.webp)<br>Doraemon (2005) | ![Futari Solo Camp](https://cdn.myanimelist.net/images/anime/1904/150649.webp)<br>Futari Solo Camp |
-| ![Akujiki Reijou to Kyouketsu Koushaku](https://cdn.myanimelist.net/images/anime/1264/152012.webp)<br>Akujiki Reijou to Kyouketsu Koushaku | ![Pokemon (2023)](https://cdn.myanimelist.net/images/anime/1703/137216.webp)<br>Pokemon (2023) |
-| ![Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & "Zamaa!" Shimasu!](https://cdn.myanimelist.net/images/anime/1163/151246.webp)<br>Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & "Zamaa!" Shimasu! | ![Towa no Yuugure](https://cdn.myanimelist.net/images/anime/1294/151734.webp)<br>Towa no Yuugure |
-| ![Crayon Shin-chan](https://cdn.myanimelist.net/images/anime/10/59897.webp)<br>Crayon Shin-chan | ![Tougen Anki](https://cdn.myanimelist.net/images/anime/1474/150666.webp)<br>Tougen Anki |
+| ![Gakkou de wa Oshiete Kurenai Taisetsu na Koto](https://cdn.myanimelist.net/images/anime/1791/149887.webp)<br>Gakkou de wa Oshiete Kurenai Taisetsu na Koto | ![Jochum Season 2](https://cdn.myanimelist.net/images/anime/1017/151409.webp)<br>Jochum Season 2 |
+| ![Punirunes: Puni 3](https://cdn.myanimelist.net/images/anime/1095/150294.webp)<br>Punirunes: Puni 3 | ![Shibuya♡Hachi Part 4](https://cdn.myanimelist.net/images/anime/1958/152020.webp)<br>Shibuya♡Hachi Part 4 |
+| ![Oshiri Tantei 9th Season](https://cdn.myanimelist.net/images/anime/1128/149981.webp)<br>Oshiri Tantei 9th Season | ![Kagaku x Bouken Survival! 2nd Season](https://cdn.myanimelist.net/images/anime/1191/151082.webp)<br>Kagaku x Bouken Survival! 2nd Season |
+| ![Shimajirou no Wow!](https://cdn.myanimelist.net/images/anime/9/50737.webp)<br>Shimajirou no Wow! | ![Kaijuu Sekai Seifuku (TV)](https://cdn.myanimelist.net/images/anime/1582/150123.webp)<br>Kaijuu Sekai Seifuku (TV) |
+| ![Ninjala (TV)](https://cdn.myanimelist.net/images/anime/1552/119871.webp)<br>Ninjala (TV) | ![Bonobono (TV 2016)](https://cdn.myanimelist.net/images/anime/1686/149949.webp)<br>Bonobono (TV 2016) |
+| ![Shuumatsu Touring](https://cdn.myanimelist.net/images/anime/1681/151599.webp)<br>Shuumatsu Touring | ![Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun](https://cdn.myanimelist.net/images/anime/1363/151886.webp)<br>Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun |
+| ![Kekkon Yubiwa Monogatari II](https://cdn.myanimelist.net/images/anime/1478/151722.webp)<br>Kekkon Yubiwa Monogatari II | ![Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezasu](https://cdn.myanimelist.net/images/anime/1732/153360.webp)<br>Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezasu |
+| ![Yasei no Last Boss ga Arawareta!](https://cdn.myanimelist.net/images/anime/1830/145051.webp)<br>Yasei no Last Boss ga Arawareta! | ![Watari-kun no xx ga Houkai Sunzen](https://cdn.myanimelist.net/images/anime/1502/150545.webp)<br>Watari-kun no xx ga Houkai Sunzen |
+| ![Sanda](https://cdn.myanimelist.net/images/anime/1364/151767.webp)<br>Sanda | ![Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka](https://cdn.myanimelist.net/images/anime/1190/151754.webp)<br>Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka |
+| ![Fumetsu no Anata e Season 3](https://cdn.myanimelist.net/images/anime/1140/152364.webp)<br>Fumetsu no Anata e Season 3 | ![Boku no Hero Academia: Final Season](https://cdn.myanimelist.net/images/anime/1959/151055.webp)<br>Boku no Hero Academia: Final Season |
+| ![Spy x Family Season 3](https://cdn.myanimelist.net/images/anime/1697/151793.webp)<br>Spy x Family Season 3 | ![Meitantei Conan](https://cdn.myanimelist.net/images/anime/7/75199.webp)<br>Meitantei Conan |
