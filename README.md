@@ -1,9 +1,9 @@
-# Anime Schedule for Tuesday
-Here is a list of anime that aired on **Tuesday** 
+# Anime Schedule for Thursday
+Here is a list of anime that aired on **Thursday** 
 | Anime | Anime |
 |-------|-------|
-| ![Origami Ninja Koyankinte](https://cdn.myanimelist.net/images/anime/1860/106477.webp)<br>Origami Ninja Koyankinte | ![2200-nen Neko no Kuni Nippon](https://cdn.myanimelist.net/images/anime/1967/152249.webp)<br>2200-nen Neko no Kuni Nippon |
-| ![Fushigi Dagashiya: Zenitendou](https://cdn.myanimelist.net/images/anime/1602/150098.webp)<br>Fushigi Dagashiya: Zenitendou | ![Monster Strike: Deadverse Reloaded](https://cdn.myanimelist.net/images/anime/1090/151875.webp)<br>Monster Strike: Deadverse Reloaded |
-| ![Heika Watashi wo Wasurete Kudasai](https://cdn.myanimelist.net/images/anime/1889/151926.webp)<br>Heika Watashi wo Wasurete Kudasai | ![Kimi to Koete Koi ni Naru](https://cdn.myanimelist.net/images/anime/1810/153334.webp)<br>Kimi to Koete Koi ni Naru |
-| ![3-nen Z-gumi Ginpachi-sensei](https://cdn.myanimelist.net/images/anime/1643/151547.webp)<br>3-nen Z-gumi Ginpachi-sensei | ![Sozai Saishuka no Isekai Ryokouki](https://cdn.myanimelist.net/images/anime/1289/151136.webp)<br>Sozai Saishuka no Isekai Ryokouki |
-| ![Chitose-kun wa Ramune Bin no Naka](https://cdn.myanimelist.net/images/anime/1015/151233.webp)<br>Chitose-kun wa Ramune Bin no Naka | ![Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga](https://cdn.myanimelist.net/images/anime/1276/151118.webp)<br>Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga |
+| ![Sylvanian Families: Freya no Wonder Days](https://cdn.myanimelist.net/images/anime/1126/152091.webp)<br>Sylvanian Families: Freya no Wonder Days | ![Sawaranaide Kotesashi-kun Mini Anime Gekijou](https://cdn.myanimelist.net/images/anime/1508/152511.webp)<br>Sawaranaide Kotesashi-kun Mini Anime Gekijou |
+| ![Chou Futsuu Mahou Shoujo Asumi Toruverse](https://cdn.myanimelist.net/images/anime/1657/152125.webp)<br>Chou Futsuu Mahou Shoujo Asumi Toruverse | ![Let's Play: Quest-darake no My Life](https://cdn.myanimelist.net/images/anime/1148/150376.webp)<br>Let's Play: Quest-darake no My Life |
+| ![Kakuriyo no Yadomeshi Ni](https://cdn.myanimelist.net/images/anime/1619/151364.webp)<br>Kakuriyo no Yadomeshi Ni | ![Tensei Akujo no Kuro Rekishi](https://cdn.myanimelist.net/images/anime/1347/150603.webp)<br>Tensei Akujo no Kuro Rekishi |
+| ![Taiyou yori mo Mabushii Hoshi](https://cdn.myanimelist.net/images/anime/1475/152176.webp)<br>Taiyou yori mo Mabushii Hoshi | ![Bukiyou na Senpai.](https://cdn.myanimelist.net/images/anime/1257/152233.webp)<br>Bukiyou na Senpai. |
+| ![Watashi wo Tabetai, Hitodenashi](https://cdn.myanimelist.net/images/anime/1191/152368.webp)<br>Watashi wo Tabetai, Hitodenashi |  |
