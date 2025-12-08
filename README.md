@@ -1,8 +1,9 @@
-# Anime Schedule for Monday
-Here is a list of anime that aired on **Monday** 
+# Anime Schedule for Tuesday
+Here is a list of anime that aired on **Tuesday** 
 | Anime | Anime |
 |-------|-------|
-| ![Uso Tantei Tomanto](https://cdn.myanimelist.net/images/anime/1745/152126.webp)<br>Uso Tantei Tomanto | ![Shin Nippon History](https://cdn.myanimelist.net/images/anime/1433/134811.webp)<br>Shin Nippon History |
-| ![Puzzle & Dragon](https://cdn.myanimelist.net/images/anime/1460/149962.webp)<br>Puzzle & Dragon | ![Debu to Love to Ayamachi to!](https://cdn.myanimelist.net/images/anime/1669/151736.webp)<br>Debu to Love to Ayamachi to! |
-| ![Egao no Taenai Shokuba desu.](https://cdn.myanimelist.net/images/anime/1617/151874.webp)<br>Egao no Taenai Shokuba desu. | ![Sawaranaide Kotesashi-kun](https://cdn.myanimelist.net/images/anime/1025/150482.webp)<br>Sawaranaide Kotesashi-kun |
-| ![Isekai Quartet 3](https://cdn.myanimelist.net/images/anime/1044/152103.webp)<br>Isekai Quartet 3 | ![Nageki no Bourei wa Intai shitai Part 2](https://cdn.myanimelist.net/images/anime/1651/152063.webp)<br>Nageki no Bourei wa Intai shitai Part 2 |
+| ![Origami Ninja Koyankinte](https://cdn.myanimelist.net/images/anime/1860/106477.webp)<br>Origami Ninja Koyankinte | ![2200-nen Neko no Kuni Nippon](https://cdn.myanimelist.net/images/anime/1967/152249.webp)<br>2200-nen Neko no Kuni Nippon |
+| ![Fushigi Dagashiya: Zenitendou](https://cdn.myanimelist.net/images/anime/1602/150098.webp)<br>Fushigi Dagashiya: Zenitendou | ![Monster Strike: Deadverse Reloaded](https://cdn.myanimelist.net/images/anime/1090/151875.webp)<br>Monster Strike: Deadverse Reloaded |
+| ![Heika Watashi wo Wasurete Kudasai](https://cdn.myanimelist.net/images/anime/1889/151926.webp)<br>Heika Watashi wo Wasurete Kudasai | ![Kimi to Koete Koi ni Naru](https://cdn.myanimelist.net/images/anime/1810/153334.webp)<br>Kimi to Koete Koi ni Naru |
+| ![3-nen Z-gumi Ginpachi-sensei](https://cdn.myanimelist.net/images/anime/1643/151547.webp)<br>3-nen Z-gumi Ginpachi-sensei | ![Sozai Saishuka no Isekai Ryokouki](https://cdn.myanimelist.net/images/anime/1289/151136.webp)<br>Sozai Saishuka no Isekai Ryokouki |
+| ![Chitose-kun wa Ramune Bin no Naka](https://cdn.myanimelist.net/images/anime/1015/151233.webp)<br>Chitose-kun wa Ramune Bin no Naka | ![Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga](https://cdn.myanimelist.net/images/anime/1276/151118.webp)<br>Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga |
