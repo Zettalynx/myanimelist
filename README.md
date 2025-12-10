@@ -1,9 +1,9 @@
-# Anime Schedule for Wednesday
-Here is a list of anime that aired on **Wednesday** 
+# Anime Schedule for Thursday
+Here is a list of anime that aired on **Thursday** 
 | Anime | Anime |
 |-------|-------|
-| ![Koikeya SDGs Gekijou Suss to Tina Season 6](https://cdn.myanimelist.net/images/anime/1543/152209.webp)<br>Koikeya SDGs Gekijou Suss to Tina Season 6 | ![Muzik Tiger In the Forest 2nd Season](https://cdn.myanimelist.net/images/anime/1336/152128.webp)<br>Muzik Tiger In the Forest 2nd Season |
-| ![Chibi Godzilla no Gyakushuu 3rd Season](https://cdn.myanimelist.net/images/anime/1859/150334.webp)<br>Chibi Godzilla no Gyakushuu 3rd Season | ![Pochars](https://cdn.myanimelist.net/images/anime/1155/145243.webp)<br>Pochars |
-| ![Osomatsu-san 4th Season](https://cdn.myanimelist.net/images/anime/1018/150416.webp)<br>Osomatsu-san 4th Season | ![Ninja to Gokudou](https://cdn.myanimelist.net/images/anime/1296/152147.webp)<br>Ninja to Gokudou |
-| ![Wandance](https://cdn.myanimelist.net/images/anime/1104/151524.webp)<br>Wandance | ![Yano-kun no Futsuu no Hibi](https://cdn.myanimelist.net/images/anime/1388/152332.webp)<br>Yano-kun no Futsuu no Hibi |
-| ![Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga](https://cdn.myanimelist.net/images/anime/1721/151097.webp)<br>Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga | ![Tondemo Skill de Isekai Hourou Meshi 2](https://cdn.myanimelist.net/images/anime/1206/151772.webp)<br>Tondemo Skill de Isekai Hourou Meshi 2 |
+| ![Sylvanian Families: Freya no Wonder Days](https://cdn.myanimelist.net/images/anime/1126/152091.webp)<br>Sylvanian Families: Freya no Wonder Days | ![Sawaranaide Kotesashi-kun Mini Anime Gekijou](https://cdn.myanimelist.net/images/anime/1508/152511.webp)<br>Sawaranaide Kotesashi-kun Mini Anime Gekijou |
+| ![#Kanagawa ni Sunderu Elf](https://cdn.myanimelist.net/images/anime/1194/152817.webp)<br>#Kanagawa ni Sunderu Elf | ![Chou Futsuu Mahou Shoujo Asumi Toruverse](https://cdn.myanimelist.net/images/anime/1657/152125.webp)<br>Chou Futsuu Mahou Shoujo Asumi Toruverse |
+| ![Let's Play: Quest-darake no My Life](https://cdn.myanimelist.net/images/anime/1148/150376.webp)<br>Let's Play: Quest-darake no My Life | ![Kakuriyo no Yadomeshi Ni](https://cdn.myanimelist.net/images/anime/1619/151364.webp)<br>Kakuriyo no Yadomeshi Ni |
+| ![Tensei Akujo no Kuro Rekishi](https://cdn.myanimelist.net/images/anime/1347/150603.webp)<br>Tensei Akujo no Kuro Rekishi | ![Taiyou yori mo Mabushii Hoshi](https://cdn.myanimelist.net/images/anime/1475/152176.webp)<br>Taiyou yori mo Mabushii Hoshi |
+| ![Bukiyou na Senpai.](https://cdn.myanimelist.net/images/anime/1257/152233.webp)<br>Bukiyou na Senpai. | ![Watashi wo Tabetai, Hitodenashi](https://cdn.myanimelist.net/images/anime/1191/152368.webp)<br>Watashi wo Tabetai, Hitodenashi |
