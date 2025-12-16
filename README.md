@@ -1,9 +1,8 @@
-# Anime Schedule for Tuesday
-Here is a list of anime that aired on **Tuesday** 
+# Anime Schedule for Wednesday
+Here is a list of anime that aired on **Wednesday** 
 | Anime | Anime |
 |-------|-------|
-| ![Origami Ninja Koyankinte](https://cdn.myanimelist.net/images/anime/1860/106477.webp)<br>Origami Ninja Koyankinte | ![2200-nen Neko no Kuni Nippon](https://cdn.myanimelist.net/images/anime/1279/154187.webp)<br>2200-nen Neko no Kuni Nippon |
-| ![Fushigi Dagashiya: Zenitendou](https://cdn.myanimelist.net/images/anime/1602/150098.webp)<br>Fushigi Dagashiya: Zenitendou | ![Monster Strike: Deadverse Reloaded](https://cdn.myanimelist.net/images/anime/1090/151875.webp)<br>Monster Strike: Deadverse Reloaded |
-| ![Heika Watashi wo Wasurete Kudasai](https://cdn.myanimelist.net/images/anime/1889/151926.webp)<br>Heika Watashi wo Wasurete Kudasai | ![Kimi to Koete Koi ni Naru](https://cdn.myanimelist.net/images/anime/1810/153334.webp)<br>Kimi to Koete Koi ni Naru |
-| ![3-nen Z-gumi Ginpachi-sensei](https://cdn.myanimelist.net/images/anime/1643/151547.webp)<br>3-nen Z-gumi Ginpachi-sensei | ![Chitose-kun wa Ramune Bin no Naka](https://cdn.myanimelist.net/images/anime/1015/151233.webp)<br>Chitose-kun wa Ramune Bin no Naka |
-| ![Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga](https://cdn.myanimelist.net/images/anime/1276/151118.webp)<br>Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga |  |
+| ![Koikeya SDGs Gekijou Suss to Tina Season 6](https://cdn.myanimelist.net/images/anime/1543/152209.webp)<br>Koikeya SDGs Gekijou Suss to Tina Season 6 | ![Muzik Tiger In the Forest 2nd Season](https://cdn.myanimelist.net/images/anime/1336/152128.webp)<br>Muzik Tiger In the Forest 2nd Season |
+| ![Chibi Godzilla no Gyakushuu 3rd Season](https://cdn.myanimelist.net/images/anime/1859/150334.webp)<br>Chibi Godzilla no Gyakushuu 3rd Season | ![Pochars](https://cdn.myanimelist.net/images/anime/1155/145243.webp)<br>Pochars |
+| ![Osomatsu-san 4th Season](https://cdn.myanimelist.net/images/anime/1018/150416.webp)<br>Osomatsu-san 4th Season | ![Ninja to Gokudou](https://cdn.myanimelist.net/images/anime/1296/152147.webp)<br>Ninja to Gokudou |
+| ![Wandance](https://cdn.myanimelist.net/images/anime/1104/151524.webp)<br>Wandance | ![Tondemo Skill de Isekai Hourou Meshi 2](https://cdn.myanimelist.net/images/anime/1206/151772.webp)<br>Tondemo Skill de Isekai Hourou Meshi 2 |
