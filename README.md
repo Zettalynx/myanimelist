@@ -1,9 +1,13 @@
-# Anime Schedule for Thursday
-Here is a list of anime that aired on **Thursday** 
+# Anime Schedule for Friday
+Here is a list of anime that aired on **Friday** 
 | Anime | Anime |
 |-------|-------|
-| ![Sylvanian Families: Freya no Wonder Days](https://cdn.myanimelist.net/images/anime/1126/152091.webp)<br>Sylvanian Families: Freya no Wonder Days | ![Sawaranaide Kotesashi-kun Mini Anime Gekijou](https://cdn.myanimelist.net/images/anime/1508/152511.webp)<br>Sawaranaide Kotesashi-kun Mini Anime Gekijou |
-| ![#Kanagawa ni Sunderu Elf](https://cdn.myanimelist.net/images/anime/1194/152817.webp)<br>#Kanagawa ni Sunderu Elf | ![Chou Futsuu Mahou Shoujo Asumi Toruverse](https://cdn.myanimelist.net/images/anime/1657/152125.webp)<br>Chou Futsuu Mahou Shoujo Asumi Toruverse |
-| ![Let's Play: Quest-darake no My Life](https://cdn.myanimelist.net/images/anime/1148/150376.webp)<br>Let's Play: Quest-darake no My Life | ![Kakuriyo no Yadomeshi Ni](https://cdn.myanimelist.net/images/anime/1619/151364.webp)<br>Kakuriyo no Yadomeshi Ni |
-| ![Tensei Akujo no Kuro Rekishi](https://cdn.myanimelist.net/images/anime/1347/150603.webp)<br>Tensei Akujo no Kuro Rekishi | ![Taiyou yori mo Mabushii Hoshi](https://cdn.myanimelist.net/images/anime/1475/152176.webp)<br>Taiyou yori mo Mabushii Hoshi |
-| ![Bukiyou na Senpai.](https://cdn.myanimelist.net/images/anime/1257/152233.webp)<br>Bukiyou na Senpai. | ![Watashi wo Tabetai, Hitodenashi](https://cdn.myanimelist.net/images/anime/1191/152368.webp)<br>Watashi wo Tabetai, Hitodenashi |
+| ![Minimini Minini](https://cdn.myanimelist.net/images/anime/1753/148560.webp)<br>Minimini Minini | ![Sumikko Gurashi: Koko ga Ochitsukun desu](https://cdn.myanimelist.net/images/anime/1177/149954.webp)<br>Sumikko Gurashi: Koko ga Ochitsukun desu |
+| ![Anila to Cocora](https://cdn.myanimelist.net/images/anime/1684/154189.webp)<br>Anila to Cocora | ![Nmeneko](https://cdn.myanimelist.net/images/anime/1989/149978.webp)<br>Nmeneko |
+| ![Hyakushou Kizoku 3rd Season](https://cdn.myanimelist.net/images/anime/1223/151728.webp)<br>Hyakushou Kizoku 3rd Season | ![Nohara Hiroshi: Hiru Meshi no Ryuugi](https://cdn.myanimelist.net/images/anime/1736/148429.webp)<br>Nohara Hiroshi: Hiru Meshi no Ryuugi |
+| ![Sore Ike! Anpanman](https://cdn.myanimelist.net/images/anime/1902/111797.webp)<br>Sore Ike! Anpanman | ![Beyblade X](https://cdn.myanimelist.net/images/anime/1394/145458.webp)<br>Beyblade X |
+| ![Ganglion](https://cdn.myanimelist.net/images/anime/1333/151768.webp)<br>Ganglion | ![Potion, Wagami wo Tasukeru](https://cdn.myanimelist.net/images/anime/1311/151227.webp)<br>Potion, Wagami wo Tasukeru |
+| ![Shabake](https://cdn.myanimelist.net/images/anime/1736/152179.webp)<br>Shabake | ![Chiikawa](https://cdn.myanimelist.net/images/anime/1783/121944.webp)<br>Chiikawa |
+| ![Doraemon (2005)](https://cdn.myanimelist.net/images/anime/6/23935.webp)<br>Doraemon (2005) | ![Pokemon (2023)](https://cdn.myanimelist.net/images/anime/1703/137216.webp)<br>Pokemon (2023) |
+| ![Towa no Yuugure](https://cdn.myanimelist.net/images/anime/1294/151734.webp)<br>Towa no Yuugure | ![Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & "Zamaa!" Shimasu!](https://cdn.myanimelist.net/images/anime/1163/151246.webp)<br>Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & "Zamaa!" Shimasu! |
+| ![Crayon Shin-chan](https://cdn.myanimelist.net/images/anime/10/59897.webp)<br>Crayon Shin-chan | ![Tougen Anki](https://cdn.myanimelist.net/images/anime/1474/150666.webp)<br>Tougen Anki |
