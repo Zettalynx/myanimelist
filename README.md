@@ -1,8 +1,10 @@
-# Anime Schedule for Thursday
-Here is a list of anime that aired on **Thursday** 
+# Anime Schedule for Friday
+Here is a list of anime that aired on **Friday** 
 | Anime | Anime |
 |-------|-------|
-| ![Metal Cardbot W](https://cdn.myanimelist.net/images/anime/1332/154527.webp)<br>Metal Cardbot W | ![Metal Cardbot W](https://cdn.myanimelist.net/images/anime/1332/154527.webp)<br>Metal Cardbot W |
-| ![Sawaranaide Kotesashi-kun Mini Anime Gekijou](https://cdn.myanimelist.net/images/anime/1508/152511.webp)<br>Sawaranaide Kotesashi-kun Mini Anime Gekijou | ![#Kanagawa ni Sunderu Elf](https://cdn.myanimelist.net/images/anime/1194/152817.webp)<br>#Kanagawa ni Sunderu Elf |
-| ![Chou Futsuu Mahou Shoujo Asumi Toruverse](https://cdn.myanimelist.net/images/anime/1657/152125.webp)<br>Chou Futsuu Mahou Shoujo Asumi Toruverse | ![Tensei Akujo no Kuro Rekishi](https://cdn.myanimelist.net/images/anime/1347/150603.webp)<br>Tensei Akujo no Kuro Rekishi |
-| ![Watashi wo Tabetai, Hitodenashi](https://cdn.myanimelist.net/images/anime/1191/152368.webp)<br>Watashi wo Tabetai, Hitodenashi |  |
+| ![Minimini Minini](https://cdn.myanimelist.net/images/anime/1753/148560.webp)<br>Minimini Minini | ![Nmeneko](https://cdn.myanimelist.net/images/anime/1989/149978.webp)<br>Nmeneko |
+| ![Sore Ike! Anpanman](https://cdn.myanimelist.net/images/anime/1902/111797.webp)<br>Sore Ike! Anpanman | ![Beyblade X](https://cdn.myanimelist.net/images/anime/1394/145458.webp)<br>Beyblade X |
+| ![Ganglion](https://cdn.myanimelist.net/images/anime/1333/151768.webp)<br>Ganglion | ![Shabake](https://cdn.myanimelist.net/images/anime/1736/152179.webp)<br>Shabake |
+| ![Chiikawa](https://cdn.myanimelist.net/images/anime/1783/121944.webp)<br>Chiikawa | ![Doraemon (2005)](https://cdn.myanimelist.net/images/anime/6/23935.webp)<br>Doraemon (2005) |
+| ![Pokemon (2023)](https://cdn.myanimelist.net/images/anime/1703/137216.webp)<br>Pokemon (2023) | ![Crayon Shin-chan](https://cdn.myanimelist.net/images/anime/10/59897.webp)<br>Crayon Shin-chan |
+| ![Tougen Anki](https://cdn.myanimelist.net/images/anime/1474/150666.webp)<br>Tougen Anki |  |
