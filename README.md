@@ -1,6 +1,6 @@
-# Anime Schedule for Wednesday
-Here is a list of anime that aired on **Wednesday** 
+# Anime Schedule for Thursday
+Here is a list of anime that aired on **Thursday** 
 | Anime | Anime |
 |-------|-------|
-| ![Muzik Tiger In the Forest 2nd Season](https://cdn.myanimelist.net/images/anime/1336/152128.webp)<br>Muzik Tiger In the Forest 2nd Season | ![Chibi Godzilla no Gyakushuu 3rd Season](https://cdn.myanimelist.net/images/anime/1859/150334.webp)<br>Chibi Godzilla no Gyakushuu 3rd Season |
-| ![Pochars](https://cdn.myanimelist.net/images/anime/1155/145243.webp)<br>Pochars | ![Osomatsu-san 4th Season](https://cdn.myanimelist.net/images/anime/1018/150416.webp)<br>Osomatsu-san 4th Season |
+| ![Metal Cardbot W](https://cdn.myanimelist.net/images/anime/1332/154527.webp)<br>Metal Cardbot W | ![Metal Cardbot W](https://cdn.myanimelist.net/images/anime/1332/154527.webp)<br>Metal Cardbot W |
+| ![#Kanagawa ni Sunderu Elf](https://cdn.myanimelist.net/images/anime/1194/152817.webp)<br>#Kanagawa ni Sunderu Elf |  |
