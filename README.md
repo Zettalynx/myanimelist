@@ -1,10 +1,15 @@
-# Anime Schedule for Saturday
-Here is a list of anime that aired on **Saturday** 
+# Anime Schedule for Sunday
+Here is a list of anime that aired on **Sunday** 
 | Anime | Anime |
 |-------|-------|
-| ![Jochum Season 2](https://cdn.myanimelist.net/images/anime/1017/151409.webp)<br>Jochum Season 2 | ![Kagaku x Bouken Survival! 2nd Season](https://cdn.myanimelist.net/images/anime/1191/151082.webp)<br>Kagaku x Bouken Survival! 2nd Season |
-| ![Shimajirou no Wow!](https://cdn.myanimelist.net/images/anime/9/50737.webp)<br>Shimajirou no Wow! | ![Kaijuu Sekai Seifuku (TV)](https://cdn.myanimelist.net/images/anime/1582/150123.webp)<br>Kaijuu Sekai Seifuku (TV) |
-| ![Ninjala (TV)](https://cdn.myanimelist.net/images/anime/1552/119871.webp)<br>Ninjala (TV) | ![Bonobono (TV 2016)](https://cdn.myanimelist.net/images/anime/1686/149949.webp)<br>Bonobono (TV 2016) |
-| ![Ao no Miburo: Serizawa Ansatsu-hen](https://cdn.myanimelist.net/images/anime/1393/151603.webp)<br>Ao no Miburo: Serizawa Ansatsu-hen | ![Dark Moon: Tsuki no Saidan](https://cdn.myanimelist.net/images/anime/1559/154695.webp)<br>Dark Moon: Tsuki no Saidan |
-| ![Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni](https://cdn.myanimelist.net/images/anime/1264/153908.webp)<br>Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni | ![Fate/strange Fake](https://cdn.myanimelist.net/images/anime/1752/150192.webp)<br>Fate/strange Fake |
-| ![Fumetsu no Anata e Season 3](https://cdn.myanimelist.net/images/anime/1140/152364.webp)<br>Fumetsu no Anata e Season 3 | ![Meitantei Conan](https://cdn.myanimelist.net/images/anime/7/75199.webp)<br>Meitantei Conan |
+| ![Tomica to Tom (TV)](https://cdn.myanimelist.net/images/anime/1521/151096.webp)<br>Tomica to Tom (TV) | ![Sai-Kyo-Oh! Zukan: The Ultimate Tournament](https://cdn.myanimelist.net/images/anime/1531/150143.webp)<br>Sai-Kyo-Oh! Zukan: The Ultimate Tournament |
+| ![Manul no Yuube](https://cdn.myanimelist.net/images/anime/1980/96936.webp)<br>Manul no Yuube | ![Himitsu no AiPri: Ring-hen](https://cdn.myanimelist.net/images/anime/1799/148164.webp)<br>Himitsu no AiPri: Ring-hen |
+| ![Koupen-chan](https://cdn.myanimelist.net/images/anime/1533/146981.webp)<br>Koupen-chan | ![Kimi to Idol Precure♪](https://cdn.myanimelist.net/images/anime/1277/147358.webp)<br>Kimi to Idol Precure♪ |
+| ![Princession Orchestra](https://cdn.myanimelist.net/images/anime/1405/152146.webp)<br>Princession Orchestra | ![SI-VIS: The Sound of Heroes](https://cdn.myanimelist.net/images/anime/1421/154342.webp)<br>SI-VIS: The Sound of Heroes |
+| ![Chibi Maruko-chan (1995)](https://cdn.myanimelist.net/images/anime/1678/153148.webp)<br>Chibi Maruko-chan (1995) | ![Sazae-san](https://cdn.myanimelist.net/images/anime/1008/98996.webp)<br>Sazae-san |
+| ![Yuusha no Kuzu](https://cdn.myanimelist.net/images/anime/1821/154043.webp)<br>Yuusha no Kuzu | ![Ao no Orchestra Season 2](https://cdn.myanimelist.net/images/anime/1078/151796.webp)<br>Ao no Orchestra Season 2 |
+| ![Hanazakari no Kimitachi e](https://cdn.myanimelist.net/images/anime/1490/152041.webp)<br>Hanazakari no Kimitachi e | ![MF Ghost 3rd Season](https://cdn.myanimelist.net/images/anime/1419/154458.webp)<br>MF Ghost 3rd Season |
+| ![Digimon Beatbreak](https://cdn.myanimelist.net/images/anime/1776/151242.webp)<br>Digimon Beatbreak | ![Majutsushi Kunon wa Mieteiru](https://cdn.myanimelist.net/images/anime/1704/154459.webp)<br>Majutsushi Kunon wa Mieteiru |
+| ![Ikoku Nikki](https://cdn.myanimelist.net/images/anime/1791/154233.webp)<br>Ikoku Nikki | ![Gnosia](https://cdn.myanimelist.net/images/anime/1257/152352.webp)<br>Gnosia |
+| ![Tamon-kun Ima Docchi!?](https://cdn.myanimelist.net/images/anime/1474/153320.webp)<br>Tamon-kun Ima Docchi!? | ![Yuusha Party wo Oidasareta Kiyoubinbou](https://cdn.myanimelist.net/images/anime/1486/153135.webp)<br>Yuusha Party wo Oidasareta Kiyoubinbou |
+| ![Toujima Tanzaburou wa Kamen Rider ni Naritai](https://cdn.myanimelist.net/images/anime/1455/152139.webp)<br>Toujima Tanzaburou wa Kamen Rider ni Naritai | ![One Piece](https://cdn.myanimelist.net/images/anime/1244/138851.webp)<br>One Piece |
