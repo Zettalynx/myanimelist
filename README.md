@@ -1,9 +1,9 @@
-# Anime Schedule for Monday
-Here is a list of anime that aired on **Monday** 
+# Anime Schedule for Tuesday
+Here is a list of anime that aired on **Tuesday** 
 | Anime | Anime |
 |-------|-------|
-| ![Uso Tantei Tomanto](https://cdn.myanimelist.net/images/anime/1745/152126.webp)<br>Uso Tantei Tomanto | ![Shin Nippon History](https://cdn.myanimelist.net/images/anime/1433/134811.webp)<br>Shin Nippon History |
-| ![Hokuto no Ken: Kenougun Zako-tachi no Banka](https://cdn.myanimelist.net/images/anime/1845/153717.webp)<br>Hokuto no Ken: Kenougun Zako-tachi no Banka | ![Hokuto no Ken: Kenougun Zako-tachi no Banka](https://cdn.myanimelist.net/images/anime/1845/153717.webp)<br>Hokuto no Ken: Kenougun Zako-tachi no Banka |
-| ![Puzzle & Dragon](https://cdn.myanimelist.net/images/anime/1460/149962.webp)<br>Puzzle & Dragon | ![Goumon Baito-kun no Nichijou](https://cdn.myanimelist.net/images/anime/1721/153380.webp)<br>Goumon Baito-kun no Nichijou |
-| ![Kirei ni Shitemoraemasu ka.](https://cdn.myanimelist.net/images/anime/1940/154234.webp)<br>Kirei ni Shitemoraemasu ka. | ![Golden Kamuy: Saishuushou](https://cdn.myanimelist.net/images/anime/1288/154763.webp)<br>Golden Kamuy: Saishuushou |
-| ![Vigilante: Boku no Hero Academia Illegals 2nd Season](https://cdn.myanimelist.net/images/anime/1592/154049.webp)<br>Vigilante: Boku no Hero Academia Illegals 2nd Season |  |
+| ![Origami Ninja Koyankinte](https://cdn.myanimelist.net/images/anime/1860/106477.webp)<br>Origami Ninja Koyankinte | ![Fushigi Dagashiya: Zenitendou](https://cdn.myanimelist.net/images/anime/1602/150098.webp)<br>Fushigi Dagashiya: Zenitendou |
+| ![Yoroi Shin Den Samurai Troopers](https://cdn.myanimelist.net/images/anime/1289/153952.webp)<br>Yoroi Shin Den Samurai Troopers | ![Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!](https://cdn.myanimelist.net/images/anime/1115/152470.webp)<br>Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu! |
+| ![Osananajimi to wa Love Comedy ni Naranai](https://cdn.myanimelist.net/images/anime/1729/153502.webp)<br>Osananajimi to wa Love Comedy ni Naranai | ![Isekai no Sata wa Shachiku Shidai](https://cdn.myanimelist.net/images/anime/1510/153806.webp)<br>Isekai no Sata wa Shachiku Shidai |
+| ![Mayonaka Heart Tune](https://cdn.myanimelist.net/images/anime/1769/152823.webp)<br>Mayonaka Heart Tune | ![Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.](https://cdn.myanimelist.net/images/anime/1573/152828.webp)<br>Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. |
+| ![Chitose-kun wa Ramune Bin no Naka](https://cdn.myanimelist.net/images/anime/1015/151233.webp)<br>Chitose-kun wa Ramune Bin no Naka |  |
