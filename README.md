@@ -1,10 +1,9 @@
-# Anime Schedule for Monday
-Here is a list of anime that aired on **Monday** 
+# Anime Schedule for Wednesday
+Here is a list of anime that aired on **Wednesday** 
 | Anime | Anime |
 |-------|-------|
-| ![Uso Tantei Tomanto](https://cdn.myanimelist.net/images/anime/1745/152126.webp)<br>Uso Tantei Tomanto | ![Shin Nippon History](https://cdn.myanimelist.net/images/anime/1433/134811.webp)<br>Shin Nippon History |
-| ![Hokuto no Ken: Kenougun Zako-tachi no Banka](https://cdn.myanimelist.net/images/anime/1845/153717.webp)<br>Hokuto no Ken: Kenougun Zako-tachi no Banka | ![Hokuto no Ken: Kenougun Zako-tachi no Banka](https://cdn.myanimelist.net/images/anime/1845/153717.webp)<br>Hokuto no Ken: Kenougun Zako-tachi no Banka |
-| ![Puzzle & Dragon](https://cdn.myanimelist.net/images/anime/1460/149962.webp)<br>Puzzle & Dragon | ![Yami Shibai 16](https://cdn.myanimelist.net/images/anime/1666/154215.webp)<br>Yami Shibai 16 |
-| ![Yami Shibai 16](https://cdn.myanimelist.net/images/anime/1666/154215.webp)<br>Yami Shibai 16 | ![Goumon Baito-kun no Nichijou](https://cdn.myanimelist.net/images/anime/1721/153380.webp)<br>Goumon Baito-kun no Nichijou |
-| ![Himesama "Goumon" no Jikan desu 2nd Season](https://cdn.myanimelist.net/images/anime/1272/153326.webp)<br>Himesama "Goumon" no Jikan desu 2nd Season | ![Kirei ni Shitemoraemasu ka.](https://cdn.myanimelist.net/images/anime/1940/154234.webp)<br>Kirei ni Shitemoraemasu ka. |
-| ![Golden Kamuy: Saishuushou](https://cdn.myanimelist.net/images/anime/1288/154763.webp)<br>Golden Kamuy: Saishuushou | ![Vigilante: Boku no Hero Academia Illegals 2nd Season](https://cdn.myanimelist.net/images/anime/1592/154049.webp)<br>Vigilante: Boku no Hero Academia Illegals 2nd Season |
+| ![Gelpiyo](https://cdn.myanimelist.net/images/anime/1529/154774.webp)<br>Gelpiyo | ![Chibi Godzilla no Gyakushuu 3rd Season](https://cdn.myanimelist.net/images/anime/1859/150334.webp)<br>Chibi Godzilla no Gyakushuu 3rd Season |
+| ![Pochars](https://cdn.myanimelist.net/images/anime/1155/145243.webp)<br>Pochars | ![Jigoku Sensei Nube (2025) Part 2](https://cdn.myanimelist.net/images/anime/1361/153968.webp)<br>Jigoku Sensei Nube (2025) Part 2 |
+| ![Arne no Jikenbo](https://cdn.myanimelist.net/images/anime/1440/154894.webp)<br>Arne no Jikenbo | ![29-sai Dokushin Chuuken Boukensha no Nichijou](https://cdn.myanimelist.net/images/anime/1765/154087.webp)<br>29-sai Dokushin Chuuken Boukensha no Nichijou |
+| ![Maou no Musume wa Yasashisugiru!!](https://cdn.myanimelist.net/images/anime/1160/154083.webp)<br>Maou no Musume wa Yasashisugiru!! | ![Darwin Jihen](https://cdn.myanimelist.net/images/anime/1341/152829.webp)<br>Darwin Jihen |
+| ![Shibou Yuugi de Meshi wo Kuu.](https://cdn.myanimelist.net/images/anime/1834/151169.webp)<br>Shibou Yuugi de Meshi wo Kuu. | ![[Oshi no Ko] 3rd Season](https://cdn.myanimelist.net/images/anime/1979/153329.webp)<br>[Oshi no Ko] 3rd Season |
