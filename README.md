@@ -1,17 +1,10 @@
-# Anime Schedule for Sunday
-Here is a list of anime that aired on **Sunday** 
+# Anime Schedule for Monday
+Here is a list of anime that aired on **Monday** 
 | Anime | Anime |
 |-------|-------|
-| ![Tomica to Tom (TV)](https://cdn.myanimelist.net/images/anime/1521/151096.webp)<br>Tomica to Tom (TV) | ![Sai-Kyo-Oh! Zukan: The Ultimate Tournament](https://cdn.myanimelist.net/images/anime/1531/150143.webp)<br>Sai-Kyo-Oh! Zukan: The Ultimate Tournament |
-| ![Manul no Yuube](https://cdn.myanimelist.net/images/anime/1980/96936.webp)<br>Manul no Yuube | ![Himitsu no AiPri: Ring-hen](https://cdn.myanimelist.net/images/anime/1799/148164.webp)<br>Himitsu no AiPri: Ring-hen |
-| ![Meitantei Precure!](https://cdn.myanimelist.net/images/anime/1706/154944.webp)<br>Meitantei Precure! | ![Koupen-chan](https://cdn.myanimelist.net/images/anime/1533/146981.webp)<br>Koupen-chan |
-| ![Hikuidori: Ushuu Boro Tobi-gumi](https://cdn.myanimelist.net/images/anime/1129/151615.webp)<br>Hikuidori: Ushuu Boro Tobi-gumi | ![Princession Orchestra](https://cdn.myanimelist.net/images/anime/1405/152146.webp)<br>Princession Orchestra |
-| ![SI-VIS: The Sound of Heroes](https://cdn.myanimelist.net/images/anime/1421/154342.webp)<br>SI-VIS: The Sound of Heroes | ![Chibi Maruko-chan (1995)](https://cdn.myanimelist.net/images/anime/1678/153148.webp)<br>Chibi Maruko-chan (1995) |
-| ![Sazae-san](https://cdn.myanimelist.net/images/anime/1008/98996.webp)<br>Sazae-san | ![Ao no Orchestra Season 2](https://cdn.myanimelist.net/images/anime/1078/151796.webp)<br>Ao no Orchestra Season 2 |
-| ![Jingai Kyoushitsu no Ningengirai Kyoushi](https://cdn.myanimelist.net/images/anime/1387/154934.webp)<br>Jingai Kyoushitsu no Ningengirai Kyoushi | ![Yuusha no Kuzu](https://cdn.myanimelist.net/images/anime/1821/154043.webp)<br>Yuusha no Kuzu |
-| ![Digimon Beatbreak](https://cdn.myanimelist.net/images/anime/1776/151242.webp)<br>Digimon Beatbreak | ![MF Ghost 3rd Season](https://cdn.myanimelist.net/images/anime/1419/154458.webp)<br>MF Ghost 3rd Season |
-| ![Hanazakari no Kimitachi e](https://cdn.myanimelist.net/images/anime/1506/155355.webp)<br>Hanazakari no Kimitachi e | ![Medalist 2nd Season](https://cdn.myanimelist.net/images/anime/1828/155038.webp)<br>Medalist 2nd Season |
-| ![Kaya-chan wa Kowakunai](https://cdn.myanimelist.net/images/anime/1194/153705.webp)<br>Kaya-chan wa Kowakunai | ![Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru](https://cdn.myanimelist.net/images/anime/1383/151284.webp)<br>Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru |
-| ![Gnosia](https://cdn.myanimelist.net/images/anime/1257/152352.webp)<br>Gnosia | ![Majutsushi Kunon wa Mieteiru](https://cdn.myanimelist.net/images/anime/1704/154459.webp)<br>Majutsushi Kunon wa Mieteiru |
-| ![Toujima Tanzaburou wa Kamen Rider ni Naritai](https://cdn.myanimelist.net/images/anime/1455/152139.webp)<br>Toujima Tanzaburou wa Kamen Rider ni Naritai | ![Uruwashi no Yoi no Tsuki](https://cdn.myanimelist.net/images/anime/1999/154569.webp)<br>Uruwashi no Yoi no Tsuki |
-| ![Ikoku Nikki](https://cdn.myanimelist.net/images/anime/1791/154233.webp)<br>Ikoku Nikki |  |
+| ![Uso Tantei Tomanto](https://cdn.myanimelist.net/images/anime/1745/152126.webp)<br>Uso Tantei Tomanto | ![Shin Nippon History](https://cdn.myanimelist.net/images/anime/1433/134811.webp)<br>Shin Nippon History |
+| ![Hokuto no Ken: Kenougun Zako-tachi no Banka](https://cdn.myanimelist.net/images/anime/1845/153717.webp)<br>Hokuto no Ken: Kenougun Zako-tachi no Banka | ![Hokuto no Ken: Kenougun Zako-tachi no Banka](https://cdn.myanimelist.net/images/anime/1845/153717.webp)<br>Hokuto no Ken: Kenougun Zako-tachi no Banka |
+| ![Puzzle & Dragon](https://cdn.myanimelist.net/images/anime/1460/149962.webp)<br>Puzzle & Dragon | ![Yami Shibai 16](https://cdn.myanimelist.net/images/anime/1666/154215.webp)<br>Yami Shibai 16 |
+| ![Yami Shibai 16](https://cdn.myanimelist.net/images/anime/1666/154215.webp)<br>Yami Shibai 16 | ![Goumon Baito-kun no Nichijou](https://cdn.myanimelist.net/images/anime/1721/153380.webp)<br>Goumon Baito-kun no Nichijou |
+| ![Himesama "Goumon" no Jikan desu 2nd Season](https://cdn.myanimelist.net/images/anime/1272/153326.webp)<br>Himesama "Goumon" no Jikan desu 2nd Season | ![Kirei ni Shitemoraemasu ka.](https://cdn.myanimelist.net/images/anime/1940/154234.webp)<br>Kirei ni Shitemoraemasu ka. |
+| ![Golden Kamuy: Saishuushou](https://cdn.myanimelist.net/images/anime/1288/154763.webp)<br>Golden Kamuy: Saishuushou | ![Vigilante: Boku no Hero Academia Illegals 2nd Season](https://cdn.myanimelist.net/images/anime/1592/154049.webp)<br>Vigilante: Boku no Hero Academia Illegals 2nd Season |
