@@ -1,9 +1,11 @@
-# Anime Schedule for Thursday
-Here is a list of anime that aired on **Thursday** 
+# Anime Schedule for Friday
+Here is a list of anime that aired on **Friday** 
 | Anime | Anime |
 |-------|-------|
-| ![Metal Cardbot W](https://myanimelist.net/images/anime/1332/154527.webp)<br>Metal Cardbot W | ![Metal Cardbot W](https://myanimelist.net/images/anime/1332/154527.webp)<br>Metal Cardbot W |
-| ![#Kanagawa ni Sunderu Elf](https://myanimelist.net/images/anime/1194/152817.webp)<br>#Kanagawa ni Sunderu Elf | ![Odayaka Kizoku no Kyuuka no Susume.](https://myanimelist.net/images/anime/1968/152396.webp)<br>Odayaka Kizoku no Kyuuka no Susume. |
-| ![Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari](https://myanimelist.net/images/anime/1033/152494.webp)<br>Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | ![Eris no Seihai](https://myanimelist.net/images/anime/1404/154931.webp)<br>Eris no Seihai |
-| ![Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru](https://myanimelist.net/images/anime/1629/153722.webp)<br>Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru | ![Mato Seihei no Slave 2](https://myanimelist.net/images/anime/1668/148737.webp)<br>Mato Seihei no Slave 2 |
-| ![Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://myanimelist.net/images/anime/1062/151911.webp)<br>Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku |  |
+| ![Nmeneko](https://myanimelist.net/images/anime/1989/149978.webp)<br>Nmeneko | ![High School! Kimengumi (2026)](https://myanimelist.net/images/anime/1501/154507.webp)<br>High School! Kimengumi (2026) |
+| ![Sore Ike! Anpanman](https://myanimelist.net/images/anime/1902/111797.webp)<br>Sore Ike! Anpanman | ![Beyblade X](https://myanimelist.net/images/anime/1394/145458.webp)<br>Beyblade X |
+| ![Ganglion](https://myanimelist.net/images/anime/1333/151768.webp)<br>Ganglion | ![Douse, Koishite Shimaunda. 2nd Season](https://myanimelist.net/images/anime/1054/153719.webp)<br>Douse, Koishite Shimaunda. 2nd Season |
+| ![Chiikawa](https://myanimelist.net/images/anime/1783/121944.webp)<br>Chiikawa | ![Doraemon (2005)](https://myanimelist.net/images/anime/6/23935.webp)<br>Doraemon (2005) |
+| ![Champignon no Majo](https://myanimelist.net/images/anime/1499/152613.webp)<br>Champignon no Majo | !["Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai](https://myanimelist.net/images/anime/1360/153435.webp)<br>"Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai |
+| ![Pokemon (2023)](https://myanimelist.net/images/anime/1703/137216.webp)<br>Pokemon (2023) | ![Crayon Shin-chan](https://myanimelist.net/images/anime/10/59897.webp)<br>Crayon Shin-chan |
+| ![Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen](https://myanimelist.net/images/anime/1659/154920.webp)<br>Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen | ![Sousou no Frieren 2nd Season](https://myanimelist.net/images/anime/1921/154528.webp)<br>Sousou no Frieren 2nd Season |
