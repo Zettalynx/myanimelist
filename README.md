@@ -1,8 +1,8 @@
-# Anime Schedule for Tuesday
-Here is a list of anime that aired on **Tuesday** 
+# Anime Schedule for Wednesday
+Here is a list of anime that aired on **Wednesday** 
 | Anime | Anime |
 |-------|-------|
-| ![Origami Ninja Koyankinte](https://myanimelist.net/images/anime/1860/106477.webp)<br>Origami Ninja Koyankinte | ![Fushigi Dagashiya: Zenitendou](https://myanimelist.net/images/anime/1602/150098.webp)<br>Fushigi Dagashiya: Zenitendou |
-| ![Yoroi Shin Den Samurai Troopers](https://myanimelist.net/images/anime/1289/153952.webp)<br>Yoroi Shin Den Samurai Troopers | ![Isekai no Sata wa Shachiku Shidai](https://myanimelist.net/images/anime/1510/153806.webp)<br>Isekai no Sata wa Shachiku Shidai |
-| ![Mayonaka Heart Tune](https://myanimelist.net/images/anime/1769/152823.webp)<br>Mayonaka Heart Tune | ![Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.](https://myanimelist.net/images/anime/1573/152828.webp)<br>Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. |
-| ![Chitose-kun wa Ramune Bin no Naka](https://myanimelist.net/images/anime/1015/151233.webp)<br>Chitose-kun wa Ramune Bin no Naka |  |
+| ![Gelpiyo](https://myanimelist.net/images/anime/1529/154774.webp)<br>Gelpiyo | ![Chibi Godzilla no Gyakushuu 3rd Season](https://myanimelist.net/images/anime/1859/150334.webp)<br>Chibi Godzilla no Gyakushuu 3rd Season |
+| ![Pochars](https://myanimelist.net/images/anime/1155/145243.webp)<br>Pochars | ![Jigoku Sensei Nube (2025) Part 2](https://myanimelist.net/images/anime/1361/153968.webp)<br>Jigoku Sensei Nube (2025) Part 2 |
+| ![29-sai Dokushin Chuuken Boukensha no Nichijou](https://myanimelist.net/images/anime/1765/154087.webp)<br>29-sai Dokushin Chuuken Boukensha no Nichijou | ![Darwin Jihen](https://myanimelist.net/images/anime/1341/152829.webp)<br>Darwin Jihen |
+| ![[Oshi no Ko] 3rd Season](https://myanimelist.net/images/anime/1979/153329.webp)<br>[Oshi no Ko] 3rd Season |  |
