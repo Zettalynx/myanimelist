@@ -1,8 +1,8 @@
-# Anime Schedule for Wednesday
-Here is a list of anime that aired on **Wednesday** 
+# Anime Schedule for Thursday
+Here is a list of anime that aired on **Thursday** 
 | Anime | Anime |
 |-------|-------|
-| ![Gelpiyo](https://myanimelist.net/images/anime/1529/154774.webp)<br>Gelpiyo | ![Chibi Godzilla no Gyakushuu 3rd Season](https://myanimelist.net/images/anime/1859/150334.webp)<br>Chibi Godzilla no Gyakushuu 3rd Season |
-| ![Pochars](https://myanimelist.net/images/anime/1155/145243.webp)<br>Pochars | ![Jigoku Sensei Nube (2025) Part 2](https://myanimelist.net/images/anime/1361/153968.webp)<br>Jigoku Sensei Nube (2025) Part 2 |
-| ![29-sai Dokushin Chuuken Boukensha no Nichijou](https://myanimelist.net/images/anime/1765/154087.webp)<br>29-sai Dokushin Chuuken Boukensha no Nichijou | ![Darwin Jihen](https://myanimelist.net/images/anime/1341/152829.webp)<br>Darwin Jihen |
-| ![[Oshi no Ko] 3rd Season](https://myanimelist.net/images/anime/1979/153329.webp)<br>[Oshi no Ko] 3rd Season |  |
+| ![Metal Cardbot W](https://myanimelist.net/images/anime/1332/154527.webp)<br>Metal Cardbot W | ![Metal Cardbot W](https://myanimelist.net/images/anime/1332/154527.webp)<br>Metal Cardbot W |
+| ![Odayaka Kizoku no Kyuuka no Susume.](https://myanimelist.net/images/anime/1968/152396.webp)<br>Odayaka Kizoku no Kyuuka no Susume. | ![Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari](https://myanimelist.net/images/anime/1033/152494.webp)<br>Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari |
+| ![Eris no Seihai](https://myanimelist.net/images/anime/1404/154931.webp)<br>Eris no Seihai | ![Mato Seihei no Slave 2](https://myanimelist.net/images/anime/1668/148737.webp)<br>Mato Seihei no Slave 2 |
+| ![Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://myanimelist.net/images/anime/1062/151911.webp)<br>Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku |  |
