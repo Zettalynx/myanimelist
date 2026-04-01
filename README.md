@@ -1,5 +1,5 @@
-# Anime Schedule for Wednesday
-Here is a list of anime that aired on **Wednesday** 
+# Anime Schedule for Thursday
+Here is a list of anime that aired on **Thursday** 
 | Anime | Anime |
 |-------|-------|
-| ![Chibi Godzilla no Gyakushuu 3rd Season](https://myanimelist.net/images/anime/1859/150334.webp)<br>Chibi Godzilla no Gyakushuu 3rd Season | ![Pochars](https://myanimelist.net/images/anime/1155/145243.webp)<br>Pochars |
+| ![Metal Cardbot W](https://myanimelist.net/images/anime/1332/154527.webp)<br>Metal Cardbot W | ![Metal Cardbot W](https://myanimelist.net/images/anime/1332/154527.webp)<br>Metal Cardbot W |
