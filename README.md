@@ -1,10 +1,9 @@
-# Anime Schedule for Monday
-Here is a list of anime that aired on **Monday** 
+# Anime Schedule for Tuesday
+Here is a list of anime that aired on **Tuesday** 
 | Anime | Anime |
 |-------|-------|
-| ![Shin Nippon History](https://myanimelist.net/images/anime/1433/134811.webp)<br>Shin Nippon History | ![Puzzle & Dragon](https://myanimelist.net/images/anime/1460/149962.webp)<br>Puzzle & Dragon |
-| ![Ghost Concert: Missing Songs](https://myanimelist.net/images/anime/1489/155658.webp)<br>Ghost Concert: Missing Songs | ![Ingoku Danchi](https://myanimelist.net/images/anime/1373/155741.webp)<br>Ingoku Danchi |
-| ![Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/images/anime/1818/155506.webp)<br>Marika-chan no Koukando wa Bukkowareteiru | ![Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/images/anime/1818/155506.webp)<br>Marika-chan no Koukando wa Bukkowareteiru |
-| ![Marika-chan no Koukando wa Bukkowareteiru](https://myanimelist.net/images/anime/1818/155506.webp)<br>Marika-chan no Koukando wa Bukkowareteiru | ![Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi](https://myanimelist.net/images/anime/1484/155726.webp)<br>Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi |
-| ![Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.](https://myanimelist.net/images/anime/1769/153376.webp)<br>Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. | ![Niwatori Fighter](https://myanimelist.net/images/anime/1666/150983.webp)<br>Niwatori Fighter |
-| ![Isekai Nonbiri Nouka 2](https://myanimelist.net/images/anime/1656/156369.webp)<br>Isekai Nonbiri Nouka 2 | ![Tongari Boushi no Atelier](https://myanimelist.net/images/anime/1726/155542.webp)<br>Tongari Boushi no Atelier |
+| ![Origami Ninja Koyankinte](https://myanimelist.net/images/anime/1860/106477.webp)<br>Origami Ninja Koyankinte | ![Fushigi Dagashiya: Zenitendou](https://myanimelist.net/images/anime/1602/150098.webp)<br>Fushigi Dagashiya: Zenitendou |
+| ![Hyakki Yakoushou](https://myanimelist.net/images/anime/1813/155431.webp)<br>Hyakki Yakoushou | ![Replica datte, Koi wo Suru.](https://myanimelist.net/images/anime/1148/155671.webp)<br>Replica datte, Koi wo Suru. |
+| ![Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2](https://myanimelist.net/images/anime/1916/155657.webp)<br>Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 | ![Nippon Sangoku](https://myanimelist.net/images/anime/1623/156387.webp)<br>Nippon Sangoku |
+| ![Liar Game](https://myanimelist.net/images/anime/1607/156078.webp)<br>Liar Game | ![Marriagetoxin](https://myanimelist.net/images/anime/1927/154309.webp)<br>Marriagetoxin |
+| ![Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta](https://myanimelist.net/images/anime/1423/155713.webp)<br>Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta |  |
