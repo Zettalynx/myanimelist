@@ -1,9 +1,13 @@
-# Anime Schedule for Tuesday
-Here is a list of anime that aired on **Tuesday** 
+# Anime Schedule for Friday
+Here is a list of anime that aired on **Friday** 
 | Anime | Anime |
 |-------|-------|
-| ![Origami Ninja Koyankinte](https://myanimelist.net/images/anime/1860/106477.webp)<br>Origami Ninja Koyankinte | ![Fushigi Dagashiya: Zenitendou](https://myanimelist.net/images/anime/1602/150098.webp)<br>Fushigi Dagashiya: Zenitendou |
-| ![Hyakki Yakoushou](https://myanimelist.net/images/anime/1813/155431.webp)<br>Hyakki Yakoushou | ![Replica datte, Koi wo Suru.](https://myanimelist.net/images/anime/1148/155671.webp)<br>Replica datte, Koi wo Suru. |
-| ![Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2](https://myanimelist.net/images/anime/1916/155657.webp)<br>Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 | ![Nippon Sangoku](https://myanimelist.net/images/anime/1623/156387.webp)<br>Nippon Sangoku |
-| ![Liar Game](https://myanimelist.net/images/anime/1607/156078.webp)<br>Liar Game | ![Marriagetoxin](https://myanimelist.net/images/anime/1927/154309.webp)<br>Marriagetoxin |
-| ![Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta](https://myanimelist.net/images/anime/1423/155713.webp)<br>Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta |  |
+| ![Komekami! Girls](https://myanimelist.net/images/anime/1392/156024.webp)<br>Komekami! Girls | ![Sore Ike! Anpanman](https://myanimelist.net/images/anime/1902/111797.webp)<br>Sore Ike! Anpanman |
+| ![Kami no Shizuku](https://myanimelist.net/images/anime/1045/155698.webp)<br>Kami no Shizuku | ![Beyblade X](https://myanimelist.net/images/anime/1394/145458.webp)<br>Beyblade X |
+| ![Kirio Fanclub](https://myanimelist.net/images/anime/1066/155831.webp)<br>Kirio Fanclub | ![Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru](https://myanimelist.net/images/anime/1056/154990.webp)<br>Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru |
+| ![Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru](https://myanimelist.net/images/anime/1056/154990.webp)<br>Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru | ![Snowball Earth](https://myanimelist.net/images/anime/1786/156390.webp)<br>Snowball Earth |
+| ![Awajima Hyakkei](https://myanimelist.net/images/anime/1747/156361.webp)<br>Awajima Hyakkei | ![Chiikawa](https://myanimelist.net/images/anime/1783/121944.webp)<br>Chiikawa |
+| ![Mata Korosarete Shimatta no desu ne, Tantei-sama](https://myanimelist.net/images/anime/1595/156152.webp)<br>Mata Korosarete Shimatta no desu ne, Tantei-sama | ![Doraemon (2005)](https://myanimelist.net/images/anime/6/23935.webp)<br>Doraemon (2005) |
+| ![Haibara-kun no Tsuyokute Seishun New Game](https://myanimelist.net/images/anime/1401/156048.webp)<br>Haibara-kun no Tsuyokute Seishun New Game | ![Reincarnation no Kaben](https://myanimelist.net/images/anime/1064/155042.webp)<br>Reincarnation no Kaben |
+| ![Pokemon (2023)](https://myanimelist.net/images/anime/1703/137216.webp)<br>Pokemon (2023) | ![Crayon Shin-chan](https://myanimelist.net/images/anime/10/59897.webp)<br>Crayon Shin-chan |
+| ![Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2](https://myanimelist.net/images/anime/1989/154843.webp)<br>Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2 | ![Tensei shitara Slime Datta Ken 4th Season](https://myanimelist.net/images/anime/1695/156389.webp)<br>Tensei shitara Slime Datta Ken 4th Season |
