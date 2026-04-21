@@ -1,9 +1,10 @@
-# Anime Schedule for Tuesday
-Here is a list of anime that aired on **Tuesday** 
+# Anime Schedule for Wednesday
+Here is a list of anime that aired on **Wednesday** 
 | Anime | Anime |
 |-------|-------|
-| ![Origami Ninja Koyankinte](https://myanimelist.net/images/anime/1860/106477.webp)<br>Origami Ninja Koyankinte | ![Fushigi Dagashiya: Zenitendou](https://myanimelist.net/images/anime/1602/150098.webp)<br>Fushigi Dagashiya: Zenitendou |
-| ![Hyakki Yakoushou](https://myanimelist.net/images/anime/1813/155431.webp)<br>Hyakki Yakoushou | ![Replica datte, Koi wo Suru.](https://myanimelist.net/images/anime/1148/155671.webp)<br>Replica datte, Koi wo Suru. |
-| ![Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2](https://myanimelist.net/images/anime/1916/155657.webp)<br>Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 | ![Nippon Sangoku](https://myanimelist.net/images/anime/1623/156387.webp)<br>Nippon Sangoku |
-| ![Aishiteru Game wo Owarasetai](https://myanimelist.net/images/anime/1879/155958.webp)<br>Aishiteru Game wo Owarasetai | ![Liar Game](https://myanimelist.net/images/anime/1607/156078.webp)<br>Liar Game |
-| ![Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta](https://myanimelist.net/images/anime/1423/155713.webp)<br>Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta | ![Marriagetoxin](https://myanimelist.net/images/anime/1927/154309.webp)<br>Marriagetoxin |
+| ![Chibi Godzilla no Gyakushuu 3rd Season](https://myanimelist.net/images/anime/1859/150334.webp)<br>Chibi Godzilla no Gyakushuu 3rd Season | ![Daikenja Riddle no Jikan Gyakkou](https://myanimelist.net/images/anime/1764/155312.webp)<br>Daikenja Riddle no Jikan Gyakkou |
+| ![Daikenja Riddle no Jikan Gyakkou](https://myanimelist.net/images/anime/1764/155312.webp)<br>Daikenja Riddle no Jikan Gyakkou | ![Tadaima, Ojamasaremasu!](https://myanimelist.net/images/anime/1199/156106.webp)<br>Tadaima, Ojamasaremasu! |
+| ![Hidarikiki no Eren](https://myanimelist.net/images/anime/1015/156388.webp)<br>Hidarikiki no Eren | ![Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de"](https://myanimelist.net/images/anime/1228/156696.webp)<br>Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de" |
+| ![Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de"](https://myanimelist.net/images/anime/1228/156696.webp)<br>Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de" | ![Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season](https://myanimelist.net/images/anime/1153/156029.webp)<br>Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season |
+| ![Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2](https://myanimelist.net/images/anime/1738/156028.webp)<br>Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 | ![Otaku ni Yasashii Gal wa Inai!?](https://myanimelist.net/images/anime/1956/155456.webp)<br>Otaku ni Yasashii Gal wa Inai!? |
+| ![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki](https://myanimelist.net/images/anime/1176/153626.webp)<br>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki | ![Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://myanimelist.net/images/anime/1540/155824.webp)<br>Re:Zero kara Hajimeru Isekai Seikatsu 4th Season |
