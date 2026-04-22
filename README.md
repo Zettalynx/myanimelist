@@ -1,10 +1,10 @@
-# Anime Schedule for Wednesday
-Here is a list of anime that aired on **Wednesday** 
+# Anime Schedule for Thursday
+Here is a list of anime that aired on **Thursday** 
 | Anime | Anime |
 |-------|-------|
-| ![Chibi Godzilla no Gyakushuu 3rd Season](https://myanimelist.net/images/anime/1859/150334.webp)<br>Chibi Godzilla no Gyakushuu 3rd Season | ![Daikenja Riddle no Jikan Gyakkou](https://myanimelist.net/images/anime/1764/155312.webp)<br>Daikenja Riddle no Jikan Gyakkou |
-| ![Daikenja Riddle no Jikan Gyakkou](https://myanimelist.net/images/anime/1764/155312.webp)<br>Daikenja Riddle no Jikan Gyakkou | ![Tadaima, Ojamasaremasu!](https://myanimelist.net/images/anime/1199/156106.webp)<br>Tadaima, Ojamasaremasu! |
-| ![Hidarikiki no Eren](https://myanimelist.net/images/anime/1015/156388.webp)<br>Hidarikiki no Eren | ![Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de"](https://myanimelist.net/images/anime/1228/156696.webp)<br>Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de" |
-| ![Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de"](https://myanimelist.net/images/anime/1228/156696.webp)<br>Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de" | ![Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season](https://myanimelist.net/images/anime/1153/156029.webp)<br>Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season |
-| ![Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2](https://myanimelist.net/images/anime/1738/156028.webp)<br>Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 | ![Otaku ni Yasashii Gal wa Inai!?](https://myanimelist.net/images/anime/1956/155456.webp)<br>Otaku ni Yasashii Gal wa Inai!? |
-| ![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki](https://myanimelist.net/images/anime/1176/153626.webp)<br>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki | ![Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://myanimelist.net/images/anime/1540/155824.webp)<br>Re:Zero kara Hajimeru Isekai Seikatsu 4th Season |
+| ![Metal Cardbot W](https://myanimelist.net/images/anime/1332/154527.webp)<br>Metal Cardbot W | ![Metal Cardbot W](https://myanimelist.net/images/anime/1332/154527.webp)<br>Metal Cardbot W |
+| ![Candy Caries](https://myanimelist.net/images/anime/1780/154909.webp)<br>Candy Caries | ![Candy Caries](https://myanimelist.net/images/anime/1780/154909.webp)<br>Candy Caries |
+| ![Kujima Utaeba Ie Hororo](https://myanimelist.net/images/anime/1352/155195.webp)<br>Kujima Utaeba Ie Hororo | ![Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken](https://myanimelist.net/images/anime/1871/155068.webp)<br>Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken |
+| ![Ganbare! Nakamura-kun!!](https://myanimelist.net/images/anime/1201/155682.webp)<br>Ganbare! Nakamura-kun!! | ![Himekishi wa Barbaroi no Yome](https://myanimelist.net/images/anime/1229/155022.webp)<br>Himekishi wa Barbaroi no Yome |
+| ![Koori no Jouheki](https://myanimelist.net/images/anime/1565/154933.webp)<br>Koori no Jouheki | ![Dr. Stone: Science Future Part 3](https://myanimelist.net/images/anime/1773/155779.webp)<br>Dr. Stone: Science Future Part 3 |
+| ![Dr. Stone: Science Future Part 3](https://myanimelist.net/images/anime/1773/155779.webp)<br>Dr. Stone: Science Future Part 3 |  |
