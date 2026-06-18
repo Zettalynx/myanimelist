@@ -1,10 +1,13 @@
-# Anime Schedule for Wednesday
-Here is a list of anime that aired on **Wednesday** 
+# Anime Schedule for Friday
+Here is a list of anime that aired on **Friday** 
 | Anime | Anime |
 |-------|-------|
-| ![Chibi Godzilla no Gyakushuu 3rd Season](https://cdn.myanimelist.net/images/anime/1859/150334.webp)<br>Chibi Godzilla no Gyakushuu 3rd Season | ![Daikenja Riddle no Jikan Gyakkou](https://cdn.myanimelist.net/images/anime/1764/155312.webp)<br>Daikenja Riddle no Jikan Gyakkou |
-| ![Daikenja Riddle no Jikan Gyakkou](https://cdn.myanimelist.net/images/anime/1764/155312.webp)<br>Daikenja Riddle no Jikan Gyakkou | ![Hidarikiki no Eren](https://cdn.myanimelist.net/images/anime/1015/156388.webp)<br>Hidarikiki no Eren |
-| ![Tadaima, Ojamasaremasu!](https://cdn.myanimelist.net/images/anime/1199/156106.webp)<br>Tadaima, Ojamasaremasu! | ![Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de"](https://cdn.myanimelist.net/images/anime/1228/156696.webp)<br>Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de" |
-| ![Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de"](https://cdn.myanimelist.net/images/anime/1228/156696.webp)<br>Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de" | ![Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season](https://cdn.myanimelist.net/images/anime/1905/156697.webp)<br>Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season |
-| ![Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2](https://cdn.myanimelist.net/images/anime/1738/156028.webp)<br>Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 | ![Otaku ni Yasashii Gal wa Inai!?](https://cdn.myanimelist.net/images/anime/1956/155456.webp)<br>Otaku ni Yasashii Gal wa Inai!? |
-| ![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki](https://cdn.myanimelist.net/images/anime/1176/153626.webp)<br>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki | ![Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://cdn.myanimelist.net/images/anime/1540/155824.webp)<br>Re:Zero kara Hajimeru Isekai Seikatsu 4th Season |
+| ![Komekami! Girls](https://cdn.myanimelist.net/images/anime/1392/156024.webp)<br>Komekami! Girls | ![Sore Ike! Anpanman](https://cdn.myanimelist.net/images/anime/1902/111797.webp)<br>Sore Ike! Anpanman |
+| ![Beyblade X](https://cdn.myanimelist.net/images/anime/1394/145458.webp)<br>Beyblade X | ![Kami no Shizuku](https://cdn.myanimelist.net/images/anime/1045/155698.webp)<br>Kami no Shizuku |
+| ![Kirio Fanclub](https://cdn.myanimelist.net/images/anime/1066/155831.webp)<br>Kirio Fanclub | ![Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru](https://cdn.myanimelist.net/images/anime/1056/154990.webp)<br>Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru |
+| ![Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru](https://cdn.myanimelist.net/images/anime/1056/154990.webp)<br>Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru | ![Awajima Hyakkei](https://cdn.myanimelist.net/images/anime/1594/157161.webp)<br>Awajima Hyakkei |
+| ![Snowball Earth](https://cdn.myanimelist.net/images/anime/1786/156390.webp)<br>Snowball Earth | ![Chiikawa](https://cdn.myanimelist.net/images/anime/1783/121944.webp)<br>Chiikawa |
+| ![Doraemon (2005)](https://cdn.myanimelist.net/images/anime/6/23935.webp)<br>Doraemon (2005) | ![Mata Korosarete Shimatta no desu ne, Tantei-sama](https://cdn.myanimelist.net/images/anime/1595/156152.webp)<br>Mata Korosarete Shimatta no desu ne, Tantei-sama |
+| ![Haibara-kun no Tsuyokute Seishun New Game](https://cdn.myanimelist.net/images/anime/1401/156048.webp)<br>Haibara-kun no Tsuyokute Seishun New Game | ![Pokemon (2023)](https://cdn.myanimelist.net/images/anime/1703/137216.webp)<br>Pokemon (2023) |
+| ![Reincarnation no Kaben](https://cdn.myanimelist.net/images/anime/1064/155042.webp)<br>Reincarnation no Kaben | ![Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2](https://cdn.myanimelist.net/images/anime/1989/154843.webp)<br>Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2 |
+| ![Tensei shitara Slime Datta Ken 4th Season](https://cdn.myanimelist.net/images/anime/1695/156389.webp)<br>Tensei shitara Slime Datta Ken 4th Season |  |
