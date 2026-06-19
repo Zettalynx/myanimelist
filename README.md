@@ -1,13 +1,14 @@
-# Anime Schedule for Friday
-Here is a list of anime that aired on **Friday** 
+# Anime Schedule for Saturday
+Here is a list of anime that aired on **Saturday** 
 | Anime | Anime |
 |-------|-------|
-| ![Komekami! Girls](https://cdn.myanimelist.net/images/anime/1392/156024.webp)<br>Komekami! Girls | ![Sore Ike! Anpanman](https://cdn.myanimelist.net/images/anime/1902/111797.webp)<br>Sore Ike! Anpanman |
-| ![Beyblade X](https://cdn.myanimelist.net/images/anime/1394/145458.webp)<br>Beyblade X | ![Kami no Shizuku](https://cdn.myanimelist.net/images/anime/1045/155698.webp)<br>Kami no Shizuku |
-| ![Kirio Fanclub](https://cdn.myanimelist.net/images/anime/1066/155831.webp)<br>Kirio Fanclub | ![Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru](https://cdn.myanimelist.net/images/anime/1056/154990.webp)<br>Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru |
-| ![Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru](https://cdn.myanimelist.net/images/anime/1056/154990.webp)<br>Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru | ![Awajima Hyakkei](https://cdn.myanimelist.net/images/anime/1594/157161.webp)<br>Awajima Hyakkei |
-| ![Snowball Earth](https://cdn.myanimelist.net/images/anime/1786/156390.webp)<br>Snowball Earth | ![Chiikawa](https://cdn.myanimelist.net/images/anime/1783/121944.webp)<br>Chiikawa |
-| ![Doraemon (2005)](https://cdn.myanimelist.net/images/anime/6/23935.webp)<br>Doraemon (2005) | ![Mata Korosarete Shimatta no desu ne, Tantei-sama](https://cdn.myanimelist.net/images/anime/1595/156152.webp)<br>Mata Korosarete Shimatta no desu ne, Tantei-sama |
-| ![Haibara-kun no Tsuyokute Seishun New Game](https://cdn.myanimelist.net/images/anime/1401/156048.webp)<br>Haibara-kun no Tsuyokute Seishun New Game | ![Pokemon (2023)](https://cdn.myanimelist.net/images/anime/1703/137216.webp)<br>Pokemon (2023) |
-| ![Reincarnation no Kaben](https://cdn.myanimelist.net/images/anime/1064/155042.webp)<br>Reincarnation no Kaben | ![Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2](https://cdn.myanimelist.net/images/anime/1989/154843.webp)<br>Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2 |
-| ![Tensei shitara Slime Datta Ken 4th Season](https://cdn.myanimelist.net/images/anime/1695/156389.webp)<br>Tensei shitara Slime Datta Ken 4th Season |  |
+| ![Oshiri Tantei 10th Season](https://cdn.myanimelist.net/images/anime/1098/156208.webp)<br>Oshiri Tantei 10th Season | ![Nezumi-kun no Chokki (TV)](https://cdn.myanimelist.net/images/anime/1515/152058.webp)<br>Nezumi-kun no Chokki (TV) |
+| ![Shimajirou no Wow!](https://cdn.myanimelist.net/images/anime/9/50737.webp)<br>Shimajirou no Wow! | ![Rilakkuma](https://cdn.myanimelist.net/images/anime/1956/155696.webp)<br>Rilakkuma |
+| ![Ninjala (TV)](https://cdn.myanimelist.net/images/anime/1552/119871.webp)<br>Ninjala (TV) | ![Bonobono (TV 2016)](https://cdn.myanimelist.net/images/anime/1686/149949.webp)<br>Bonobono (TV 2016) |
+| ![Hokuto no Ken: Fist of the North Star](https://cdn.myanimelist.net/images/anime/1581/156641.webp)<br>Hokuto no Ken: Fist of the North Star | ![Mao](https://cdn.myanimelist.net/images/anime/1738/156386.webp)<br>Mao |
+| ![Yowayowa Sensei](https://cdn.myanimelist.net/images/anime/1364/155774.webp)<br>Yowayowa Sensei | ![Kamiina Botan, Yoeru Sugata wa Yuri no Hana](https://cdn.myanimelist.net/images/anime/1026/155965.webp)<br>Kamiina Botan, Yoeru Sugata wa Yuri no Hana |
+| ![Kanojo, Okarishimasu 5th Season](https://cdn.myanimelist.net/images/anime/1393/156075.webp)<br>Kanojo, Okarishimasu 5th Season | ![Kanojo, Okarishimasu 5th Season](https://cdn.myanimelist.net/images/anime/1393/156075.webp)<br>Kanojo, Okarishimasu 5th Season |
+| ![Kill Ao](https://cdn.myanimelist.net/images/anime/1899/156600.webp)<br>Kill Ao | ![Akane-banashi](https://cdn.myanimelist.net/images/anime/1162/155669.webp)<br>Akane-banashi |
+| ![Mairimashita! Iruma-kun 4th Season](https://cdn.myanimelist.net/images/anime/1434/154048.webp)<br>Mairimashita! Iruma-kun 4th Season | ![Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo](https://cdn.myanimelist.net/images/anime/1371/155054.webp)<br>Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo |
+| ![Crayon Shin-chan](https://cdn.myanimelist.net/images/anime/10/59897.webp)<br>Crayon Shin-chan | ![Yomi no Tsugai](https://cdn.myanimelist.net/images/anime/1171/156397.webp)<br>Yomi no Tsugai |
+| ![Meitantei Conan](https://cdn.myanimelist.net/images/anime/7/75199.webp)<br>Meitantei Conan |  |
