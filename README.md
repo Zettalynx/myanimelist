@@ -1,9 +1,9 @@
-# Anime Schedule for Wednesday
-Here is a list of anime that aired on **Wednesday** 
+# Anime Schedule for Thursday
+Here is a list of anime that aired on **Thursday** 
 | Anime | Anime |
 |-------|-------|
-| ![Chibi Godzilla no Gyakushuu 3rd Season](https://cdn.myanimelist.net/images/anime/1859/150334.webp)<br>Chibi Godzilla no Gyakushuu 3rd Season | ![Hidarikiki no Eren](https://cdn.myanimelist.net/images/anime/1015/156388.webp)<br>Hidarikiki no Eren |
-| ![Tadaima, Ojamasaremasu!](https://cdn.myanimelist.net/images/anime/1199/156106.webp)<br>Tadaima, Ojamasaremasu! | ![Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de"](https://cdn.myanimelist.net/images/anime/1228/156696.webp)<br>Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de" |
-| ![Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de"](https://cdn.myanimelist.net/images/anime/1228/156696.webp)<br>Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de" | ![Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season](https://cdn.myanimelist.net/images/anime/1905/156697.webp)<br>Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season |
-| ![Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2](https://cdn.myanimelist.net/images/anime/1738/156028.webp)<br>Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 | ![Otaku ni Yasashii Gal wa Inai!?](https://cdn.myanimelist.net/images/anime/1956/155456.webp)<br>Otaku ni Yasashii Gal wa Inai!? |
-| ![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki](https://cdn.myanimelist.net/images/anime/1176/153626.webp)<br>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki | ![Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://cdn.myanimelist.net/images/anime/1540/155824.webp)<br>Re:Zero kara Hajimeru Isekai Seikatsu 4th Season |
+| ![Metal Cardbot W](https://cdn.myanimelist.net/images/anime/1332/154527.webp)<br>Metal Cardbot W | ![Metal Cardbot W](https://cdn.myanimelist.net/images/anime/1332/154527.webp)<br>Metal Cardbot W |
+| ![Candy Caries](https://cdn.myanimelist.net/images/anime/1780/154909.webp)<br>Candy Caries | ![Candy Caries](https://cdn.myanimelist.net/images/anime/1780/154909.webp)<br>Candy Caries |
+| ![Kujima Utaeba Ie Hororo](https://cdn.myanimelist.net/images/anime/1352/155195.webp)<br>Kujima Utaeba Ie Hororo | ![Himekishi wa Barbaroi no Yome](https://cdn.myanimelist.net/images/anime/1229/155022.webp)<br>Himekishi wa Barbaroi no Yome |
+| ![Koori no Jouheki](https://cdn.myanimelist.net/images/anime/1565/154933.webp)<br>Koori no Jouheki | ![Super no Ura de Yani Suu Futari](https://cdn.myanimelist.net/images/anime/1768/156339.webp)<br>Super no Ura de Yani Suu Futari |
+| ![Dr. Stone: Science Future Part 3](https://cdn.myanimelist.net/images/anime/1773/155779.webp)<br>Dr. Stone: Science Future Part 3 | ![Dr. Stone: Science Future Part 3](https://cdn.myanimelist.net/images/anime/1773/155779.webp)<br>Dr. Stone: Science Future Part 3 |
