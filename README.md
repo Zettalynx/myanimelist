@@ -1,12 +1,13 @@
-# Anime Schedule for Saturday
-Here is a list of anime that aired on **Saturday** 
+# Anime Schedule for Sunday
+Here is a list of anime that aired on **Sunday** 
 | Anime | Anime |
 |-------|-------|
-| ![Oshiri Tantei 10th Season](https://cdn.myanimelist.net/images/anime/1098/156208.webp)<br>Oshiri Tantei 10th Season | ![Nezumi-kun no Chokki (TV)](https://cdn.myanimelist.net/images/anime/1515/152058.webp)<br>Nezumi-kun no Chokki (TV) |
-| ![Shimajirou no Wow!](https://cdn.myanimelist.net/images/anime/9/50737.webp)<br>Shimajirou no Wow! | ![Rilakkuma](https://cdn.myanimelist.net/images/anime/1705/158571.webp)<br>Rilakkuma |
-| ![Ninjala (TV)](https://cdn.myanimelist.net/images/anime/1552/119871.webp)<br>Ninjala (TV) | ![Bonobono (TV 2016)](https://cdn.myanimelist.net/images/anime/1686/149949.webp)<br>Bonobono (TV 2016) |
-| ![Hokuto no Ken: Fist of the North Star](https://cdn.myanimelist.net/images/anime/1581/156641.webp)<br>Hokuto no Ken: Fist of the North Star | ![Mao](https://cdn.myanimelist.net/images/anime/1738/156386.webp)<br>Mao |
-| ![Yowayowa Sensei](https://cdn.myanimelist.net/images/anime/1364/155774.webp)<br>Yowayowa Sensei | ![Kamiina Botan, Yoeru Sugata wa Yuri no Hana](https://cdn.myanimelist.net/images/anime/1026/155965.webp)<br>Kamiina Botan, Yoeru Sugata wa Yuri no Hana |
-| ![Kill Ao](https://cdn.myanimelist.net/images/anime/1899/156600.webp)<br>Kill Ao | ![Mairimashita! Iruma-kun 4th Season](https://cdn.myanimelist.net/images/anime/1434/154048.webp)<br>Mairimashita! Iruma-kun 4th Season |
-| ![Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo](https://cdn.myanimelist.net/images/anime/1371/155054.webp)<br>Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo | ![Crayon Shin-chan](https://cdn.myanimelist.net/images/anime/10/59897.webp)<br>Crayon Shin-chan |
-| ![Yomi no Tsugai](https://cdn.myanimelist.net/images/anime/1171/156397.webp)<br>Yomi no Tsugai | ![Meitantei Conan](https://cdn.myanimelist.net/images/anime/7/75199.webp)<br>Meitantei Conan |
+| ![Kumarba Season 3](https://cdn.myanimelist.net/images/anime/1148/155162.webp)<br>Kumarba Season 3 | ![Shou 3 Ashibe QQ Goma-chan](https://cdn.myanimelist.net/images/anime/1899/155697.webp)<br>Shou 3 Ashibe QQ Goma-chan |
+| ![Manul no Yuube](https://cdn.myanimelist.net/images/anime/1980/96936.webp)<br>Manul no Yuube | ![Onegai AiPri](https://cdn.myanimelist.net/images/anime/1705/155680.webp)<br>Onegai AiPri |
+| ![Koupen-chan](https://cdn.myanimelist.net/images/anime/1533/146981.webp)<br>Koupen-chan | ![Meitantei Precure!](https://cdn.myanimelist.net/images/anime/1706/154944.webp)<br>Meitantei Precure! |
+| ![Chibi Maruko-chan (1995)](https://cdn.myanimelist.net/images/anime/1678/153148.webp)<br>Chibi Maruko-chan (1995) | ![Sazae-san](https://cdn.myanimelist.net/images/anime/1008/98996.webp)<br>Sazae-san |
+| ![Diamond no Ace: Act II Second Season](https://cdn.myanimelist.net/images/anime/1594/154245.webp)<br>Diamond no Ace: Act II Second Season | ![Digimon Beatbreak](https://cdn.myanimelist.net/images/anime/1776/151242.webp)<br>Digimon Beatbreak |
+| ![Yuusha no Kuzu](https://cdn.myanimelist.net/images/anime/1821/154043.webp)<br>Yuusha no Kuzu | ![Kuroneko to Majo no Kyoushitsu](https://cdn.myanimelist.net/images/anime/1716/153989.webp)<br>Kuroneko to Majo no Kyoushitsu |
+| ![Yozakura-san Chi no Daisakusen 2nd Season](https://cdn.myanimelist.net/images/anime/1230/155783.webp)<br>Yozakura-san Chi no Daisakusen 2nd Season | ![Needy Girl Overdose](https://cdn.myanimelist.net/images/anime/1755/154935.webp)<br>Needy Girl Overdose |
+| ![Shunkashuutou Daikousha: Haru no Mai](https://cdn.myanimelist.net/images/anime/1993/156385.webp)<br>Shunkashuutou Daikousha: Haru no Mai | ![Tsue to Tsurugi no Wistoria Season 2](https://cdn.myanimelist.net/images/anime/1190/155788.webp)<br>Tsue to Tsurugi no Wistoria Season 2 |
+| ![One Piece](https://cdn.myanimelist.net/images/anime/1244/138851.webp)<br>One Piece |  |
